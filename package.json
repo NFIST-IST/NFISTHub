@@ -1,17 +1,17 @@
 {
     "private": true,
     "scripts": {
-        "test": "yarn workspace DevNFISTHub test",
-        "clean": "yarn workspace example-site clean",
-        "build": "yarn workspace example-site build",
-        "develop": "yarn workspace example-site develop",
-        "serve": "yarn workspace example-site serve",
+        "test": "yarn workspace dev-nfist-hub test",
+        "clean": "yarn workspace nfist-hub clean",
+        "build": "yarn workspace nfist-hub build",
+        "develop": "yarn workspace nfist-hub develop",
+        "serve": "yarn workspace nfist-hub serve",
         "format": "prettier --write --ignore-path .gitignore \"**/*.+(js|jsx|json|yml|yaml|css|less|scss|ts|tsx|graphql|md|mdx)\"",
         "lint": "yarn workspaces run lint"
     },
     "workspaces": [
         "dev-nfist-hub",
-        "example-site"
+        "nfist-hub"
     ],
     "repository": {
         "type": "git",

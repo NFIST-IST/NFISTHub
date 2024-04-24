@@ -1,0 +1,22 @@
+{
+    "intro": "Hello",
+    "heroPhoto": {
+        "src": "../../images/",
+        "alt": "My Photo"
+    },
+    "image": {
+        "src": "../../images/waving-hand.png",
+        "alt": "Waving Hand Emoji"
+    },
+    "title": "JSON1 injection test",
+    "subtitle": {
+        "prefix": "JSON1 injection test ",
+        "highlight": "highlight test",
+        "suffix": "."
+    },
+    "description": "JSON1 injection test",
+    "socialProfiles": {
+        "from": ["LinkedIn", "Medium", "Github", "Mail"],
+        "showIcons": true
+    }
+}

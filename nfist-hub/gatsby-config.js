@@ -1,4 +1,5 @@
 module.exports = {
+    pathPrefix: '/NFISTHub',
     plugins: [
         {
             resolve: 'dev-nfist-hub',

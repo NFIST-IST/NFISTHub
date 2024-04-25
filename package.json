@@ -1,6 +1,7 @@
 {
     "private": true,
     "scripts": {
+        "deploy": "yarn workspace nfist-hub deploy",
         "test": "yarn workspace dev-nfist-hub test",
         "clean": "yarn workspace nfist-hub clean",
         "build": "yarn workspace nfist-hub build",
@@ -18,6 +19,7 @@
         "url": "https://github.com/konstantinmuenster/NFISTHub.git"
     },
     "devDependencies": {
+        "gh-pages": "^6.1.1",
         "husky": "4",
         "lint-staged": "^10.5.4",
         "prettier": "^2.2.1"

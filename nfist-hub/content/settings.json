@@ -28,6 +28,7 @@
                 { "label": "Astro", "url": "/astro" },
                 { "label": "Circo", "url": "/circo" },
                 { "label": "Pulsar", "url": "/pulsar" },
+                { "label": "Resumos", "url": "/resumos" },
                 { "label": "Mobilidade", "url": "/mobilidade" }
             ],
             "ctaButton": { "openNewTab": true, "label": "Resume", "url": "/resume.pdf" },

@@ -11,31 +11,31 @@ years:
                   description: S1
                   link: '/cdi-i'
                   image: assets/cdi1.svg
-                  color: '#1976d2'
+                  color: '#303f9f'
                 - name: AL
                   description: S1
                   link: '/al'
                   image: assets/al.svg
-                  color: '#303f9f'
+                  color: '#d32f2f'
                 - name: Mec
                   description: P1
                   link: '/mec'
-                  image: assets/fp.svg
-                  color: '#d32f2f'
+                  color: '#f57f17'
+                  image: assets/mec.svg
                 - name: FP
                   description: P2
                   link: '/fp'
-                  image: assets/lp.svg
-                  color: '#33691e'
+                  image: assets/fp.svg
+                  color: '#EEC10F'
                 - name: FTU
                   description: P1
                   link: '/ftu'
-                  image: assets/iei.svg
-                  color: '#f57f17'
+                  image: assets/ftu.svg
+                  color: '#1976d2'
                 - name: Rel
                   description: P2
                   link: '/rel'
-                  image: assets/ges.svg
+                  image: assets/rel.svg
                   color: '#00695c'
           - name: '2º Semestre'
             courses:
@@ -43,33 +43,33 @@ years:
                   description: S2
                   link: '/cdi-ii'
                   image: assets/cdi2.svg
-                  color: '#1565c0'
+                  color: '#303f9f'
                   long: true
                 - name: QDM
                   description: P3
                   link: '/qdm'
-                  image: assets/iaed.svg
-                  color: '#c62828'
+                  image: assets/qdm.svg
+                  color: '#00695c'
                 - name: Termo
                   description: P4
                   link: '/termo'
-                  image: assets/iac.svg
-                  color: '#ff6f00'
+                  image: assets/termo.svg
+                  color: '#d32f2f'
                 - name: ICB
                   description: P3
                   link: '/icb'
-                  image: assets/iaed.svg
-                  color: '#c62828'
+                  image: assets/icb.svg
+                  color: '#00695c'
                 - name: LIFE
                   description: P4
                   link: '/life'
-                  image: assets/md.svg
+                  image: assets/lfe.svg
                   color: '#283593'
                 - name: FC
                   description: P3
                   link: '/fc'
-                  image: assets/fis1.svg
-                  color: '#00695c'
+                  image: assets/fc.svg
+                  color: '#EEC10F'
     - name: '2º Ano'
       semesters:
           - name: '1º Semestre'
@@ -78,74 +78,74 @@ years:
                   description: S1
                   link: '/cdi-iii'
                   image: assets/cdi3.svg
-                  color: '#0d47a1'
+                  color: '#303f9f'
                 - name: PE
                   description: S1
                   link: '/pe'
-                  image: assets/cdi3.svg
-                  color: '#0d47a1'
+                  image: assets/pe.svg
+                  color: '#b71c1c'
                 - name: LFE
                   description: P1
                   link: '/lfe'
-                  image: assets/po.svg
+                  image: assets/lfe.svg
                   color: '#b71c1c'
                 - name: Eletro
                   description: P2
                   link: '/eletro'
-                  image: assets/so.svg
+                  image: assets/fis2.svg
                   color: '#f57f17'
                 - name: DFM
                   description: P1
                   link: '/dfm'
-                  image: assets/fis2.svg
+                  image: assets/dfm.svg
                   color: '#004d40'
-                - name: IE
+                - name: IEco
                   description: P2
                   link: '/ie'
-                  image: assets/asa.svg
+                  image: assets/ieco.svg
                   color: '#33691e'
                 - name: Gestão
                   description: P2
                   link: '/ges'
-                  image: assets/asa.svg
+                  image: assets/gestao.svg
                   color: '#33691e'
           - name: 2º Semestre
             courses:
                 - name: MANA
                   description: P3
                   link: '/mana'
-                  image: assets/pe.svg
-                  color: '#9c27b0'
+                  image: assets/mana.svg
+                  color: '#f57f17'
                 - name: MQ-I
                   description: P4
                   link: '/mq-i'
-                  image: assets/bd.svg
-                  color: '#757575'
+                  image: assets/mqi.svg
+                  color: '#C70DA2'
                 - name: TCFE
                   description: P3
                   link: '/tcfe'
-                  image: assets/pe.svg
-                  color: '#9c27b0'
+                  image: assets/tcfe.svg
+                  color: '#EEC10F'
                 - name: LFEA-I
                   description: P4
                   link: '/lfea-i'
-                  image: assets/ia.svg
+                  image: assets/lfeai.svg
                   color: '#3f51b5'
                 - name: TMF
                   description: P3
                   link: '/tmf'
-                  image: assets/ipm.svg
+                  image: assets/tmf.svg
                   color: '#2e7d32'
                 - name: Ótica
                   description: P4
                   link: '/otica'
-                  image: assets/ia.svg
-                  color: '#3f51b5'
+                  image: assets/oa.svg
+                  color: '#390040'
                 - name: OO
                   description: P3
                   link: '/oo'
-                  image: assets/ia.svg
-                  color: '#3f51b5'
+                  image: assets/oo.svg
+                  color: '#DC9596'
     - name: '3º Ano'
       semesters:
           - name: '1º Semestre'
@@ -153,59 +153,54 @@ years:
                 - name: ECLA
                   description: P1
                   link: '/ecla'
-                  image: assets/oc.svg
+                  image: assets/fis2.svg
                   color: '#e65100'
                 - name: Festa
                   description: P2
                   link: '/festa'
-                  image: assets/ams.svg
-                  color: '#ff5252'
+                  image: assets/festa.svg
+                  color: '#06873E'
                 - name: EGER
                   description: P1
                   link: '/eger'
-                  image: assets/apre.svg
-                  color: '#534bae'
+                  image: assets/eger.svg
+                  color: '#EEC10F'
                 - name: SD
                   description: P2
                   link: '/sd'
-                  image: assets/rc.svg
-                  color: '#524c00'
+                  image: assets/sisd.svg
+                  color: '#AE8D0C'
                 - name: LFEA-II
                   description: P1
                   link: '/lfea-ii'
-                  image: assets/apre.svg
+                  image: assets/lfe.svg
                   color: '#534bae'
                 - name: LFEUI
                   description: P2
                   link: '/lfeui'
-                  image: assets/rc.svg
+                  image: assets/lfe.svg
                   color: '#524c00'
           - name: 2º Semestre
             courses:
                 - name: FMC
                   description: P3
                   link: '/fmc'
-                  image: assets/sd.svg
-                  color: '#827717'
+                  image: assets/fmc.svg
+                  color: '#1C90F0'
                 - name: FES
                   description: P4
                   link: '/fes'
-                  image: assets/comp.svg
+                  image: assets/fes.svg
                   color: '#c50e29'
     - name: 'Pré-Majors'
       semesters:
           - name: ''
             courses:
-                - name: IEco
-                  description: P1/P2
-                  link: '/ieco'
-                  image: assets/ieco.svg
-                  color: '#00766c'
-                - name: DER
-                  description: P1
-                  link: '/der'
-                  image: assets/der.svg
-                  color: '#b61827'
+                - name: MQ-II
+                  description: P3
+                  link: '/mqii'
+                  image: assets/mqi.svg
+                  color: '#C70DA2'
     - name: 'HACS'
       semesters:
           - name: ''
@@ -215,11 +210,6 @@ years:
                   link: '/ieco'
                   image: assets/ieco.svg
                   color: '#00766c'
-                - name: DER
-                  description: P1
-                  link: '/der'
-                  image: assets/der.svg
-                  color: '#b61827'
     - name: 'PIC'
       semesters:
           - name: ''
@@ -227,8 +217,6 @@ years:
                 - name: PIC
                   description: 3º Ano
                   link: '/pic'
-                  image: assets/try.svg
+                  image: assets/pic.svg
                   color: '#00766c'
 ---
-
-### BANANA

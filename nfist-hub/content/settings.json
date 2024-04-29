@@ -29,10 +29,14 @@
                 { "label": "Astro", "url": "/astro" },
                 { "label": "Circo", "url": "/circo" },
                 { "label": "Pulsar", "url": "/pulsar" },
-                { "label": "Resumos", "url": "/resumos" },
-                { "label": "Mobilidade", "url": "/mobilidade" }
+                { "label": "Mobilidade", "url": "/mobilidade" },
+                { "label": "Resumos", "url": "/resumos" }
             ],
-            "ctaButton": { "openNewTab": true, "label": "Resume", "url": "/resume.pdf" },
+            "ctaButton": {
+                "openNewTab": true,
+                "label": "Drive",
+                "url": "https://drive.google.com/drive/u/0/folders/1lucsYwIrgUU2LdXegJjAM49IcLuDog8t"
+            },
             "footer": [
                 { "label": "Privacy", "url": "/privacy" },
                 { "label": "Imprint", "url": "/imprint" }

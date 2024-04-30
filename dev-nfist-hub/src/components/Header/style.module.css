@@ -15,7 +15,7 @@
     margin: 0 auto;
     padding: var(--page-padding);
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
 }
 

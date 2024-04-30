@@ -19,17 +19,22 @@
             "youtube": "https://www.youtube.com/user/NucleoFisicaIST",
             "mail": "mailto:nfist.ist@gmail.com",
             "instagram": "https://instagram.com/nfist"
-        }
+        },
+        "sections": [
+            { "nome": "Astro", "link": "/astro" },
+            { "nome": "Circo", "link": "/circo" },
+            { "nome": "Info", "link": "/info" },
+            { "nome": "Pulsar", "link": "/pulsar" },
+            { "nome": "Recreativa", "link": "/recreativa" }
+        ]
     },
     "siteConfiguration": {
-        "logo": { "text": "NFIST" },
+        "logo": { "image": "./images/logo_transparente_branco.png" },
         "navigation": {
             "header": [
                 { "label": "About", "url": "/#about" },
                 { "label": "Blog", "url": "/blog" },
-                { "label": "Astro", "url": "/astro" },
-                { "label": "Circo", "url": "/circo" },
-                { "label": "Pulsar", "url": "/pulsar" },
+                { "label": "Secções" },
                 { "label": "Mobilidade", "url": "/mobilidade" },
                 { "label": "Resumos", "url": "/resumos" }
             ],

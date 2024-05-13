@@ -30,6 +30,8 @@
                 { "label": "Astro", "url": "/astro" },
                 { "label": "Circo", "url": "/circo" },
                 { "label": "Pulsar", "url": "/pulsar" },
+                { "label": "Recreativa", "url": "/pulsar" },
+                { "label": "Eventos", "url": "/pulsar" },
                 { "label": "Mobilidade", "url": "/mobilidade" },
                 { "label": "Resumos", "url": "/resumos" }
             ],

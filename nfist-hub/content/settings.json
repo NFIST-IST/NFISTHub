@@ -22,7 +22,11 @@
         }
     },
     "siteConfiguration": {
-        "logo": { "text": "NFIST" },
+        "logo": {
+            "text": "NFIST",
+            "image": "../content/images/logo_transparente.png",
+            "imageDark": "../content/images/logo_transparente_branco.png"
+        },
         "navigation": {
             "header": [
                 { "label": "About", "url": "/#about" },

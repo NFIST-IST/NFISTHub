@@ -37,6 +37,10 @@ export interface SiteConfiguration {
             label: string;
             url: string;
         }[];
+        dropmenus: {
+            label: string;
+            url: string;
+        }[];
     };
 }
 
@@ -89,6 +93,10 @@ export const query = graphql`
                             url
                         }
                         header {
+                            label
+                            url
+                        }
+                        dropmenus {
                             label
                             url
                         }

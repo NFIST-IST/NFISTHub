@@ -106,6 +106,7 @@ module.exports = ({ actions }) => {
     type Navigation {
         header: [NavigationItem]
         footer: [NavigationItem]
+        dropmenus: [NavigationItem]
         ctaButton: CallToActionButton
     }
     type FeatureToggles {

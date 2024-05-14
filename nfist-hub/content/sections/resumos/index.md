@@ -219,4 +219,5 @@ years:
                   link: '/pic'
                   image: assets/pic.svg
                   color: '#00766c'
+                  long: true
 ---

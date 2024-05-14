@@ -15,115 +15,84 @@ sectionId: epfl
     -   [Dificuldade do Curso](#dificuldade-do-curso)
     -   [Horário](#horário)
     -   [Avaliação](#avaliação)
-    -   [Opções Extra](#opções-extra)
     -   [Equivalências](#equivalências)
         -   [1º Semestre](#1º-semestre)
-        -   [2º Semestre](#2º-semestre)
 -   [Qualidade de Vida](#qualidade-de-vida)
     -   [Alojamento](#alojamento)
-        -   [Opções Alojamento sugeridas pela universidade:](#opções-alojamento-sugeridas-pela-universidade)
     -   [Transportes](#transportes)
-        -   [Dentro da cidade](#dentro-da-cidade)
-        -   [Para fora da cidade](#para-fora-da-cidade)
 -   [Quotes](#quotes)
--   [Informação Extra](#informação-extra)
 
 # Ensino
 
-Foco: <u>Física e Engenharia Física</u>
-
 ### Aulas
 
--   Principalmente em Inglês
--   Algumas cadeiras em Alemão
+-   Em Inglês
 
 ### Materiais
 
--   Disponibilizados na plataforma online da universidade
--   Livros em bibliotecas
+-   Moodle com todo o material disponibilizado
 
 ### Fatores mais pessoais
 
--   Qualidade de ensino boa
--   Proximidade entre os docentes e os alunos
--   Ótima qualidade serviços académicos
--   Ótima disponibilidade de sitios para estudar
+-   Salas de estudo para cada curso com boas condições
+-   As cadeiras dão bastante trabalho, tendo em conta os créditos que valem
+-   Ensino bastante bom
+-   Os professores são muito próximos para responder a qualquer dúvida, ou questão.
+-   Existe também a possibilidade de se fazer cadeiras mais transversais e interdisciplinares na UNIL, que valem mais créditos
+-   Os serviços administrativos são muito bons.
 
 ### Carga de trabalho
 
-Média
+Leve
 
 ### Dificuldade do Curso
 
-Média
+Elevador
 
 ### Horário
 
--   Consoante as cadeiras escolhidas
--   Sobreposições podem ocorrer
--   Carga horária baixa
--   Aulas sobretudo de manhã
+-   Escolhido pelo aluno
 
 ### Avaliação
 
--   testes
--   exames
--   provas orais
-
-### Opções Extra
-
--   Atividades extra-curriculares:
--   -   cursos de línguas
--   -   desportos
--   -   (...)
+-   Difere de cadeira para cadeira
+-   Pode ser através de:
+    -   Exame escrito
+    -   Prova oral
+    -   Avaliação contínua,
+    -   (...)
+-   Cada pessoa escolhe o que quer, sendo aconselhado ter de todas, para não acumular as avaliações todas na mesma altura.
 
 ### Equivalências
 
 #### 1º Semestre
 
--   Astrofísica;
--   Nanotecnologias e Nanoeletrónica;
--   Física e Tecnologia de Plasmas;
--   Instrumentação;
--   Opcionais Livres.
-
-#### 2º Semestre
-
--   Introdução à Investigação;
--   Tecnologias Energéticas;
+-   Técnicas de Micro e Nanofabricação;
 -   Tecnologia Nuclear e de Física de Partículas;
--   Ótica e Lasers;
--   Astrofísica;
--   Opcionais Livres.
+-   Opcionais livres.
 
 # Qualidade de Vida
 
 ### Alojamento
 
-#### Opções Alojamento sugeridas pela universidade:
-
--   Boas e por volta de 400-450€
+-   Razoavelmente boas
+-   Por volta dos 800-900€/mês
 
 ### Transportes
 
-#### Dentro da cidade
+-   dentro da cidade:
+    -   aceitáveis
+    -   não muito caros
+-   fora da cidade:
+    -   boa relação qualidade/preço.
 
--   Aceitáveis
--   Não muito caros
-
-#### Para fora da cidade
-
--   Pouco frequentes
--   Boa relação qualidade/preço
+Os alunos que frequentaram esta faculdade tiveram bolsa de estudo, mas disseram que esta não chegou para as despesas necessárias.
+A cidade é bastante segura!
 
 # Quotes
 
 ```
-Recomendo vivamente a cidade de Munique como escolha para fazer
-Erasmus, e em particular a TUM
+Abre a mentalidade, aprende-se a viver sozinho e a vivenciar diferentes formas de
+ver o mundo. Novas culturas, novos amigos, novas histórias. Aprende-se o que é vida
+e física além do tecnico.
 ```
-
-# Informação Extra
-
-Os alunos que frequentaram esta faculdade tiveram bolsa de estudo, mas disseram que esta não chegou para as despesas necessárias. <u>A cidade é bastante segura.</u>
-Informações extra [aqui](https://docs.google.com/document/d/16rxoFQBVPXwgE1D9TChpHvunQHEMwpYfS62ouD-tFZg/edit).

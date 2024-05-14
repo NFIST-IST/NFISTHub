@@ -15,115 +15,87 @@ sectionId: dtu
     -   [Dificuldade do Curso](#dificuldade-do-curso)
     -   [Horário](#horário)
     -   [Avaliação](#avaliação)
-    -   [Opções Extra](#opções-extra)
     -   [Equivalências](#equivalências)
         -   [1º Semestre](#1º-semestre)
-        -   [2º Semestre](#2º-semestre)
 -   [Qualidade de Vida](#qualidade-de-vida)
-    -   [Alojamento](#alojamento)
-        -   [Opções Alojamento sugeridas pela universidade:](#opções-alojamento-sugeridas-pela-universidade)
     -   [Transportes](#transportes)
-        -   [Dentro da cidade](#dentro-da-cidade)
-        -   [Para fora da cidade](#para-fora-da-cidade)
+    -   [Atividades Extra](#atividades-extra)
 -   [Quotes](#quotes)
--   [Informação Extra](#informação-extra)
 
 # Ensino
 
-Foco: <u>Física e Engenharia Física</u>
-
 ### Aulas
 
--   Principalmente em Inglês
--   Algumas cadeiras em Alemão
+-   Em inglês
+-   Os alunos e os professores falam entre si em inglês, visto que muitos dos alunos de mestrado são internacionais, assim como os professores.
 
 ### Materiais
 
--   Disponibilizados na plataforma online da universidade
--   Livros em bibliotecas
+-   Universidade dá acesso a diversos meios, incluindo:
+    -   Papers
+    -   Livros
+
+(removendo a necessidade de comprar material de estudo)
 
 ### Fatores mais pessoais
 
--   Qualidade de ensino boa
--   Proximidade entre os docentes e os alunos
--   Ótima qualidade serviços académicos
--   Ótima disponibilidade de sitios para estudar
+-   Salas de estudo para cada curso com boas condições
+-   As cadeiras dão bastante trabalho, tendo em conta os créditos que valem
+-   Ensino bastante bom
+-   Os professores são muito próximos para responder a qualquer dúvida, ou questão.
+-   Existe também a possibilidade de se fazer cadeiras mais transversais e interdisciplinares na [UNIL](https://www.unil.ch/index.html), que valem mais créditos
+-   Os serviços administrativos são muito bons.
+-   Os alunos sentem que conseguem chegar a um nível de excelência bastante elevado, tendo alguma liberdade na dedicação que dão à universidade.
 
 ### Carga de trabalho
 
-Média
+Inferior a MEFT
 
 ### Dificuldade do Curso
 
-Média
+Inferior a MEFT
 
 ### Horário
 
--   Consoante as cadeiras escolhidas
--   Sobreposições podem ocorrer
--   Carga horária baixa
--   Aulas sobretudo de manhã
+-   Predefinido para cada cadeira
+-   Não há liberdade de escolha uma vez escolhidas as cadeiras.
+-   As cadeiras dividem-se entre as vagas que definem o horário em que estas vão ser lecionadas, assim como o dia do exame final
+-   Pode-se escolher entre um horário da manhã e um horário da tarde.
+-   Carga horária: inferior a MEFT
 
 ### Avaliação
 
--   testes
--   exames
--   provas orais
-
-### Opções Extra
-
--   Atividades extra-curriculares:
--   -   cursos de línguas
--   -   desportos
--   -   (...)
+-   Componente de trabalho continuo (apresentações, TPC's, quizzes, etc.)
+-   Componente de exame final, que normalmente consiste numa prova oral ou um projeto final
+-   Os métodos de avaliação são publicados antes do ano letivo começar nas paginas da cadeira.
 
 ### Equivalências
 
 #### 1º Semestre
 
--   Astrofísica;
+-   Física e Tecnologia dos Plasmas;
 -   Nanotecnologias e Nanoeletrónica;
--   Física e Tecnologia de Plasmas;
--   Instrumentação;
--   Opcionais Livres.
-
-#### 2º Semestre
-
--   Introdução à Investigação;
 -   Tecnologias Energéticas;
--   Tecnologia Nuclear e de Física de Partículas;
--   Ótica e Lasers;
--   Astrofísica;
--   Opcionais Livres.
+-   Técnicas de Micro e Nanofabricação;
 
 # Qualidade de Vida
 
-### Alojamento
-
-#### Opções Alojamento sugeridas pela universidade:
-
--   Boas e por volta de 400-450€
-
 ### Transportes
 
-#### Dentro da cidade
+-   Forma base de transporte: bicicleta
+-   Transportes de longo curso: comboio.
 
--   Aceitáveis
--   Não muito caros
+### Atividades Extra
 
-#### Para fora da cidade
-
--   Pouco frequentes
--   Boa relação qualidade/preço
+-   A DTU possui uma organização, a Carbon, que cria vários eventos sociais para os alunos:
+    -   watch parties
+    -   visitas a museus
+    -   (...)
+-   Organiza também uma Introduction week, como forma de integração inicial
 
 # Quotes
 
 ```
-Recomendo vivamente a cidade de Munique como escolha para fazer
-Erasmus, e em particular a TUM
+Decidi ir estudar para fora como uma forma de ter uma perspetiva diferente do sistema
+universitário e cultural em Portugal.
 ```
-
-# Informação Extra
-
-Os alunos que frequentaram esta faculdade tiveram bolsa de estudo, mas disseram que esta não chegou para as despesas necessárias. <u>A cidade é bastante segura.</u>
-Informações extra [aqui](https://docs.google.com/document/d/16rxoFQBVPXwgE1D9TChpHvunQHEMwpYfS62ouD-tFZg/edit).

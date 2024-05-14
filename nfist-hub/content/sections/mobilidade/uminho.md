@@ -15,115 +15,86 @@ sectionId: uminho
     -   [Dificuldade do Curso](#dificuldade-do-curso)
     -   [Horário](#horário)
     -   [Avaliação](#avaliação)
-    -   [Opções Extra](#opções-extra)
     -   [Equivalências](#equivalências)
         -   [1º Semestre](#1º-semestre)
         -   [2º Semestre](#2º-semestre)
 -   [Qualidade de Vida](#qualidade-de-vida)
     -   [Alojamento](#alojamento)
-        -   [Opções Alojamento sugeridas pela universidade:](#opções-alojamento-sugeridas-pela-universidade)
     -   [Transportes](#transportes)
-        -   [Dentro da cidade](#dentro-da-cidade)
-        -   [Para fora da cidade](#para-fora-da-cidade)
--   [Quotes](#quotes)
--   [Informação Extra](#informação-extra)
 
 # Ensino
 
-Foco: <u>Física e Engenharia Física</u>
+Foco: <u>Nanotecnologias</u> e <u>Matéria Condensada</u>
 
 ### Aulas
 
--   Principalmente em Inglês
--   Algumas cadeiras em Alemão
+-   Em Português
 
 ### Materiais
 
--   Disponibilizados na plataforma online da universidade
--   Livros em bibliotecas
+-   Meios de estudo disponibilizados bastante semelhantes aos disponibilizados no técnico.
 
 ### Fatores mais pessoais
 
--   Qualidade de ensino boa
--   Proximidade entre os docentes e os alunos
--   Ótima qualidade serviços académicos
--   Ótima disponibilidade de sitios para estudar
+-   Existe um laboratório/centro de investigação em Braga dedicado a Nanotecnologias e à Matéria Condensada
+-   O ensino tem boa qualidade
+-   As relações estabelecidas com os docentes são bastante boas
+-   Os serviços académicos/administrativos são muito eficientes e prestáveis
+-   Existem variados espaços de estudo para os alunos, que são bastante agradáveis.
 
 ### Carga de trabalho
 
-Média
+-   Muito leve
 
 ### Dificuldade do Curso
 
-Média
+-   Baixa
 
 ### Horário
 
--   Consoante as cadeiras escolhidas
--   Sobreposições podem ocorrer
--   Carga horária baixa
--   Aulas sobretudo de manhã
+-   Carga horária muito leve (2 dias livres por semana)
 
 ### Avaliação
 
--   testes
--   exames
--   provas orais
-
-### Opções Extra
-
--   Atividades extra-curriculares:
--   -   cursos de línguas
--   -   desportos
--   -   (...)
+-   Testes
+-   Apresentações
+-   Trabalhos
 
 ### Equivalências
 
 #### 1º Semestre
 
+-   Técnicas Matemáticas da Física;
+-   Mecânica Quântica I e II;
 -   Astrofísica;
--   Nanotecnologias e Nanoeletrónica;
--   Física e Tecnologia de Plasmas;
--   Instrumentação;
--   Opcionais Livres.
+-   Eletrodinâmica Clássica;
+-   Física dos Meios Contínuos;
+-   Opções livres.
 
 #### 2º Semestre
 
--   Introdução à Investigação;
--   Tecnologias Energéticas;
--   Tecnologia Nuclear e de Física de Partículas;
--   Ótica e Lasers;
--   Astrofísica;
--   Opcionais Livres.
+-   Mecânica Quântica I e II;
+-   Física do Estado Sólido;
+-   Física Estatística.
 
 # Qualidade de Vida
 
 ### Alojamento
 
-#### Opções Alojamento sugeridas pela universidade:
-
--   Boas e por volta de 400-450€
+-   Fácil de encontrar um alojamento/quarto alugado em casa partilhada de boa qualidade,
+-   Procurar através de:
+    -   websites
+    -   grupos de redes sociais.
+-   O preço médio de Braga ronda os 275€/mês.
+    <u>Sugestão:</u> arranjar casa mais perto da zona central, onde existem mais supermercados (não são necessariamente mais caros)
 
 ### Transportes
 
-#### Dentro da cidade
-
--   Aceitáveis
--   Não muito caros
-
-#### Para fora da cidade
-
--   Pouco frequentes
+-   Bastante bons na zona central da cidade
 -   Boa relação qualidade/preço
 
-# Quotes
+Supermercados têm uma boa relação qualidade/preço .
 
-```
-Recomendo vivamente a cidade de Munique como escolha para fazer
-Erasmus, e em particular a TUM
-```
+O curso permite a conciliação com atividades extracurriculares. As pessoas da universidade são muito simpáticas e sempre prontas a ajudar (e/ou a convidar para ir sair).
 
-# Informação Extra
-
-Os alunos que frequentaram esta faculdade tiveram bolsa de estudo, mas disseram que esta não chegou para as despesas necessárias. <u>A cidade é bastante segura.</u>
-Informações extra [aqui](https://docs.google.com/document/d/16rxoFQBVPXwgE1D9TChpHvunQHEMwpYfS62ouD-tFZg/edit).
+A cidade é muito segura!

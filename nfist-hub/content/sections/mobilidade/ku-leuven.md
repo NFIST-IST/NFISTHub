@@ -2,7 +2,7 @@
 sectionId: ku-leuven
 ---
 
-<img src="images/tum.webp" alt="TUM" class="rounded-image">
+<img src="images/tum.webp" alt="KU Leuven" class="rounded-image">
 
 # Conteúdos
 

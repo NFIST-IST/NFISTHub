@@ -8,122 +8,78 @@ sectionId: diderot
 
 -   [Conteúdos](#conteúdos)
 -   [Ensino](#ensino)
-    -   [Aulas](#aulas)
-    -   [Materiais](#materiais)
-    -   [Fatores mais pessoais](#fatores-mais-pessoais)
-    -   [Carga de trabalho](#carga-de-trabalho)
-    -   [Dificuldade do Curso](#dificuldade-do-curso)
-    -   [Horário](#horário)
-    -   [Avaliação](#avaliação)
-    -   [Opções Extra](#opções-extra)
+    -   [Aulas 👩‍🏫](#aulas-)
+    -   [Fatores mais pessoais 🙍‍♂️](#fatores-mais-pessoais-️)
+    -   [Carga de trabalho ⏰](#carga-de-trabalho-)
+    -   [Materiais 📚](#materiais-)
+    -   [Avaliação 🧐](#avaliação-)
+    -   [Opções Extra 🏅](#opções-extra-)
     -   [Equivalências](#equivalências)
         -   [1º Semestre](#1º-semestre)
-        -   [2º Semestre](#2º-semestre)
--   [Qualidade de Vida](#qualidade-de-vida)
-    -   [Alojamento](#alojamento)
-        -   [Opções Alojamento sugeridas pela universidade:](#opções-alojamento-sugeridas-pela-universidade)
-    -   [Transportes](#transportes)
-        -   [Dentro da cidade](#dentro-da-cidade)
-        -   [Para fora da cidade](#para-fora-da-cidade)
--   [Quotes](#quotes)
--   [Informação Extra](#informação-extra)
+-   [Qualidade de Vida ❤️](#qualidade-de-vida-️)
+    -   [Alojamento 🏡](#alojamento-)
+    -   [Transportes 🚌](#transportes-)
 
 # Ensino
 
-Foco: <u>Física e Engenharia Física</u>
+### Aulas 👩‍🏫
 
-### Aulas
+-   Principalmente em Francês
+-   Existem algumas do 2º Ano de Mestrado em Inglês
 
--   Principalmente em Inglês
--   Algumas cadeiras em Alemão
+### Fatores mais pessoais 🙍‍♂️
 
-### Materiais
+-   Qualidade do ensino é semelhante a em MEFT
+-   Os professores são disponíveis e próximos
+-   Os serviços académicos da universidade são aceitáveis
+-   Há muitos lugares para estudar de excelente qualidade
+-   A faculdade tem uma boa especialização no 2º Ano do mestrado em dispositivos quânticos e nanotecnologia.
+
+### Carga de trabalho ⏰
+
+Inferior a MEFT
+
+### Materiais 📚
 
 -   Disponibilizados na plataforma online da universidade
 -   Livros em bibliotecas
 
-### Fatores mais pessoais
+### Avaliação 🧐
 
--   Qualidade de ensino boa
--   Proximidade entre os docentes e os alunos
--   Ótima qualidade serviços académicos
--   Ótima disponibilidade de sitios para estudar
+-   Testes,
+-   Trabalhos de casa
+-   Provas orais
 
-### Carga de trabalho
+### Opções Extra 🏅
 
-Média
-
-### Dificuldade do Curso
-
-Média
-
-### Horário
-
--   Consoante as cadeiras escolhidas
--   Sobreposições podem ocorrer
--   Carga horária baixa
--   Aulas sobretudo de manhã
-
-### Avaliação
-
--   testes
--   exames
--   provas orais
-
-### Opções Extra
-
--   Atividades extra-curriculares:
--   -   cursos de línguas
--   -   desportos
--   -   (...)
+-   Atividades extra-curriculares
 
 ### Equivalências
 
 #### 1º Semestre
 
+-   Física do Estado Sólido;
 -   Astrofísica;
--   Nanotecnologias e Nanoeletrónica;
--   Física e Tecnologia de Plasmas;
--   Instrumentação;
--   Opcionais Livres.
+-   Física Nuclear;
+-   Física de Partículas;
+-   Opções Livres.
 
-#### 2º Semestre
+# Qualidade de Vida ❤️
 
--   Introdução à Investigação;
--   Tecnologias Energéticas;
--   Tecnologia Nuclear e de Física de Partículas;
--   Ótica e Lasers;
--   Astrofísica;
--   Opcionais Livres.
+### Alojamento 🏡
 
-# Qualidade de Vida
+-   Muito difícil de arranjar (anúncios online)
+-   Preços:
+    -   quarto alugado : cerca de 600 EUR/mês
+    -   residência de estudantes: ~700 EUR/mês
+        -   é possível obter ~90 EUR de complemento ao alojamento
+-   O alojamento é de muito boa qualidade
 
-### Alojamento
+### Transportes 🚌
 
-#### Opções Alojamento sugeridas pela universidade:
+-   Os transportes são bons,
+-   ótima relação preço/qualidade
+-   fácil arranjar transporte para fora da cidade/do país, a preços semelhantes aos Portugueses
 
--   Boas e por volta de 400-450€
-
-### Transportes
-
-#### Dentro da cidade
-
--   Aceitáveis
--   Não muito caros
-
-#### Para fora da cidade
-
--   Pouco frequentes
--   Boa relação qualidade/preço
-
-# Quotes
-
-```
-Recomendo vivamente a cidade de Munique como escolha para fazer
-Erasmus, e em particular a TUM
-```
-
-# Informação Extra
-
-Os alunos que frequentaram esta faculdade tiveram bolsa de estudo, mas disseram que esta não chegou para as despesas necessárias. <u>A cidade é bastante segura.</u>
-Informações extra [aqui](https://docs.google.com/document/d/16rxoFQBVPXwgE1D9TChpHvunQHEMwpYfS62ouD-tFZg/edit).
+A bolsa que a aluna recebeu foi só para um semestre, e chegou dentro do previsto, mas não foi de todo suficiente para cobrir os custos da estadia.
+A cidade é bastante segura e os parisienses são hospitáveis!

@@ -17,25 +17,19 @@ sectionId: padova
     -   [Avaliação](#avaliação)
     -   [Opções Extra](#opções-extra)
     -   [Equivalências](#equivalências)
-        -   [1º Semestre](#1º-semestre)
         -   [2º Semestre](#2º-semestre)
 -   [Qualidade de Vida](#qualidade-de-vida)
     -   [Alojamento](#alojamento)
-        -   [Opções Alojamento sugeridas pela universidade:](#opções-alojamento-sugeridas-pela-universidade)
     -   [Transportes](#transportes)
-        -   [Dentro da cidade](#dentro-da-cidade)
-        -   [Para fora da cidade](#para-fora-da-cidade)
 -   [Quotes](#quotes)
--   [Informação Extra](#informação-extra)
 
 # Ensino
 
-Foco: <u>Física e Engenharia Física</u>
+Foco: Física das altas energias
 
 ### Aulas
 
--   Principalmente em Inglês
--   Algumas cadeiras em Alemão
+-   Em Inglês
 
 ### Materiais
 
@@ -44,14 +38,12 @@ Foco: <u>Física e Engenharia Física</u>
 
 ### Fatores mais pessoais
 
--   Qualidade de ensino boa
--   Proximidade entre os docentes e os alunos
--   Ótima qualidade serviços académicos
--   Ótima disponibilidade de sitios para estudar
+-   O ensino é bom
+-   Os professores mostram-se muito disponíveis e prontos para ajudar.
 
 ### Carga de trabalho
 
-Média
+Baixa
 
 ### Dificuldade do Curso
 
@@ -61,69 +53,50 @@ Média
 
 -   Consoante as cadeiras escolhidas
 -   Sobreposições podem ocorrer
--   Carga horária baixa
--   Aulas sobretudo de manhã
 
 ### Avaliação
 
--   testes
--   exames
 -   provas orais
 
 ### Opções Extra
 
--   Atividades extra-curriculares:
--   -   cursos de línguas
--   -   desportos
--   -   (...)
+-   Como a carga de trabalho não é muito exigente, permite que se tenha tempo para atividades extra curriculares.
 
 ### Equivalências
-
-#### 1º Semestre
-
--   Astrofísica;
--   Nanotecnologias e Nanoeletrónica;
--   Física e Tecnologia de Plasmas;
--   Instrumentação;
--   Opcionais Livres.
 
 #### 2º Semestre
 
 -   Introdução à Investigação;
--   Tecnologias Energéticas;
--   Tecnologia Nuclear e de Física de Partículas;
--   Ótica e Lasers;
--   Astrofísica;
--   Opcionais Livres.
+-   Eletrónica;
+-   Física da Matéria Condensada;
+-   Opções Livres.
 
 # Qualidade de Vida
 
 ### Alojamento
 
-#### Opções Alojamento sugeridas pela universidade:
+-   Fácil de arranjar
+-   Preço quarto alugado num apartamento: 400-450€/mês.
 
--   Boas e por volta de 400-450€
+<u>Sugestão:</u> contacto com estudantes que já tenham ido, de modo a facilitar ainda mais todo o processo.
 
 ### Transportes
 
-#### Dentro da cidade
+-   Um pouco mais caros que em Lisboa
+-   Toda a gente anda de bicicleta
 
--   Aceitáveis
--   Não muito caros
+A bolsa que a aluna recebeu foi só para um semestre, e chegou dentro do previsto, mas não foi de todo suficiente para cobrir os custos da estadia.
 
-#### Para fora da cidade
-
--   Pouco frequentes
--   Boa relação qualidade/preço
+A cidade é segura e as pessoas são simpáticas!
 
 # Quotes
 
 ```
-Recomendo vivamente a cidade de Munique como escolha para fazer
-Erasmus, e em particular a TUM
+É importante ter uma experiência destas para nos dar um pouco de perspectiva em
+relação à nossa vida.
 ```
 
-# Informação Extra
-
-Os alunos que frequentaram esta faculdade tiveram bolsa de estudo, mas disseram que esta não chegou para as despesas necessárias. <u>A cidade é bastante segura.</u>
-Informações extra [aqui](https://docs.google.com/document/d/16rxoFQBVPXwgE1D9TChpHvunQHEMwpYfS62ouD-tFZg/edit).
+```
+Tentem escolher um sítio que mais se adequa ao rumo profissional que querem para
+vocês.
+```

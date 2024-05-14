@@ -17,16 +17,10 @@ sectionId: milano
     -   [Avaliação](#avaliação)
     -   [Opções Extra](#opções-extra)
     -   [Equivalências](#equivalências)
-        -   [1º Semestre](#1º-semestre)
         -   [2º Semestre](#2º-semestre)
 -   [Qualidade de Vida](#qualidade-de-vida)
     -   [Alojamento](#alojamento)
-        -   [Opções Alojamento sugeridas pela universidade:](#opções-alojamento-sugeridas-pela-universidade)
     -   [Transportes](#transportes)
-        -   [Dentro da cidade](#dentro-da-cidade)
-        -   [Para fora da cidade](#para-fora-da-cidade)
--   [Quotes](#quotes)
--   [Informação Extra](#informação-extra)
 
 # Ensino
 
@@ -34,96 +28,68 @@ Foco: <u>Física e Engenharia Física</u>
 
 ### Aulas
 
--   Principalmente em Inglês
--   Algumas cadeiras em Alemão
+-   Em Inglês
 
 ### Materiais
 
--   Disponibilizados na plataforma online da universidade
--   Livros em bibliotecas
+-   Lecture notes
+-   Livros
 
 ### Fatores mais pessoais
 
--   Qualidade de ensino boa
--   Proximidade entre os docentes e os alunos
--   Ótima qualidade serviços académicos
--   Ótima disponibilidade de sitios para estudar
+-   Poucos sítios com disponibilidade/qualidade para estudar
+-   Qualidade dos serviços académicos também é um pouco inferior à do Técnico
+-   Acessibilidade e disponibilidade dos professores é em geral maior que no Técnico
 
 ### Carga de trabalho
 
-Média
+Reduzida
 
 ### Dificuldade do Curso
 
-Média
+Reduzida
 
 ### Horário
 
--   Consoante as cadeiras escolhidas
--   Sobreposições podem ocorrer
 -   Carga horária baixa
--   Aulas sobretudo de manhã
 
 ### Avaliação
 
--   testes
--   exames
--   provas orais
+-   Exames Orais
 
 ### Opções Extra
 
--   Atividades extra-curriculares:
--   -   cursos de línguas
--   -   desportos
--   -   (...)
+-   O curso permite com facilidade a prática de atividades extracurriculares.
 
 ### Equivalências
-
-#### 1º Semestre
-
--   Astrofísica;
--   Nanotecnologias e Nanoeletrónica;
--   Física e Tecnologia de Plasmas;
--   Instrumentação;
--   Opcionais Livres.
 
 #### 2º Semestre
 
 -   Introdução à Investigação;
--   Tecnologias Energéticas;
--   Tecnologia Nuclear e de Física de Partículas;
--   Ótica e Lasers;
--   Astrofísica;
--   Opcionais Livres.
+-   Técnicas de Micro e Nanofabricação;
+-   Nanotecnologia.
 
 # Qualidade de Vida
 
 ### Alojamento
 
-#### Opções Alojamento sugeridas pela universidade:
-
--   Boas e por volta de 400-450€
+-   Bastante difícil de arranjar alojamento
+-   Procura feita essencialmente através de websites.
+-   Preço alto
+-   Preço mínimo para um quarto individual ronda os 450€/mês
 
 ### Transportes
 
-#### Dentro da cidade
+-   rede de transportes é boa,
+-   dentro da cidade:
+    -   muito fácil
+    -   boa relação qualidade/preço.
+-   fora da cidade:
+    -   igualmente fácil
+    -   relação qualidade/preço inferior
 
--   Aceitáveis
--   Não muito caros
+Os produtos básicos apresentam uma relação qualidade/preço bastante boa e são fáceis de encontrar.
 
-#### Para fora da cidade
+O aluno que frequentou esta universidade teve direito a bolsa de estudo que foi entregue no prazo de tempo, contudo, esta não foi suficiente para as despesas.
 
--   Pouco frequentes
--   Boa relação qualidade/preço
-
-# Quotes
-
-```
-Recomendo vivamente a cidade de Munique como escolha para fazer
-Erasmus, e em particular a TUM
-```
-
-# Informação Extra
-
-Os alunos que frequentaram esta faculdade tiveram bolsa de estudo, mas disseram que esta não chegou para as despesas necessárias. <u>A cidade é bastante segura.</u>
-Informações extra [aqui](https://docs.google.com/document/d/16rxoFQBVPXwgE1D9TChpHvunQHEMwpYfS62ouD-tFZg/edit).
+As pessoas são muito amáveis e bastante hospitaleiras! A cidade é igualmente segura!

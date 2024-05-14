@@ -18,83 +18,63 @@ sectionId: utrecht
     -   [Opções Extra](#opções-extra)
     -   [Equivalências](#equivalências)
         -   [1º Semestre](#1º-semestre)
-        -   [2º Semestre](#2º-semestre)
 -   [Qualidade de Vida](#qualidade-de-vida)
     -   [Alojamento](#alojamento)
         -   [Opções Alojamento sugeridas pela universidade:](#opções-alojamento-sugeridas-pela-universidade)
     -   [Transportes](#transportes)
-        -   [Dentro da cidade](#dentro-da-cidade)
-        -   [Para fora da cidade](#para-fora-da-cidade)
 -   [Quotes](#quotes)
--   [Informação Extra](#informação-extra)
 
 # Ensino
 
-Foco: <u>Física e Engenharia Física</u>
+Curso : Mestrado em Física Teórica
 
 ### Aulas
 
--   Principalmente em Inglês
--   Algumas cadeiras em Alemão
+-   Em Inglês
 
 ### Materiais
 
--   Disponibilizados na plataforma online da universidade
--   Livros em bibliotecas
+-   Os professores disponibilizam tudo o que é necessário
 
 ### Fatores mais pessoais
 
--   Qualidade de ensino boa
--   Proximidade entre os docentes e os alunos
--   Ótima qualidade serviços académicos
--   Ótima disponibilidade de sitios para estudar
+-   Muitos espaços de estudo
+-   Otimo qualidade de ensino
+-   Docentes muito disponíveis.
+-   Excelentes serviços administrativos.
 
 ### Carga de trabalho
 
-Média
+Mais baixa que MEFT
 
 ### Dificuldade do Curso
 
-Média
+Mais baixa que MEFT
 
 ### Horário
 
--   Consoante as cadeiras escolhidas
--   Sobreposições podem ocorrer
--   Carga horária baixa
--   Aulas sobretudo de manhã
+-   Carga horária um pouco mais leve que MEFT:
+    -   Aulas obrigatórias, 3 vezes por semana (tarde inteira)
 
 ### Avaliação
 
--   testes
--   exames
--   provas orais
+-   Avaliação contínua: fichas semanais
+-   Exames finais
+-   Midterms
 
 ### Opções Extra
 
--   Atividades extra-curriculares:
--   -   cursos de línguas
--   -   desportos
--   -   (...)
+-   Muito tempo para atividades extracurriculares.
 
 ### Equivalências
 
 #### 1º Semestre
 
--   Astrofísica;
--   Nanotecnologias e Nanoeletrónica;
--   Física e Tecnologia de Plasmas;
--   Instrumentação;
--   Opcionais Livres.
-
-#### 2º Semestre
-
--   Introdução à Investigação;
--   Tecnologias Energéticas;
--   Tecnologia Nuclear e de Física de Partículas;
--   Ótica e Lasers;
--   Astrofísica;
--   Opcionais Livres.
+-   Física de Partículas;
+-   Teoria de Campo;
+-   Física da Matéria Condensada;
+-   Relatividade;
+-   Complementos de Mecânica Quântica.
 
 # Qualidade de Vida
 
@@ -102,28 +82,26 @@ Média
 
 #### Opções Alojamento sugeridas pela universidade:
 
--   Boas e por volta de 400-450€
+-   Alojamento para estudantes é extremamente escasso.
+-   Preços: pelo menos 400 e 500 euros/mês
+-   Boa qualidade nos alojamentos.
+
+<u>Sugestão:</u> Tentar saber em que dia a universidade abre as candidaturas para as residências, também escassas, mas é a melhor hipotese
 
 ### Transportes
 
-#### Dentro da cidade
+-   Ótimos meios de transporte dentro da cidade e no país
+-   Preços bastante elevados
+-   Compensa mais alugar/comprar bicicleta pois as bicicletas são muito baratas
 
--   Aceitáveis
--   Não muito caros
+O custo de vida é caro.
 
-#### Para fora da cidade
+Lojas para comprar o essencial muito perto das residências, mas overall muito caro. Cidade extremamente segura, com pessoas com muita hospitalidade! A maior parte das pessoas fala ingles fluente na Holanda.
 
--   Pouco frequentes
--   Boa relação qualidade/preço
+Atividades extracurriculares são as tipicas de estereótipos na Holanda.
 
 # Quotes
 
 ```
-Recomendo vivamente a cidade de Munique como escolha para fazer
-Erasmus, e em particular a TUM
+Estudar fora permite experimentar uma nova abordagem de ensino.
 ```
-
-# Informação Extra
-
-Os alunos que frequentaram esta faculdade tiveram bolsa de estudo, mas disseram que esta não chegou para as despesas necessárias. <u>A cidade é bastante segura.</u>
-Informações extra [aqui](https://docs.google.com/document/d/16rxoFQBVPXwgE1D9TChpHvunQHEMwpYfS62ouD-tFZg/edit).

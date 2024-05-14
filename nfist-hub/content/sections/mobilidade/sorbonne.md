@@ -8,122 +8,92 @@ sectionId: sorbonne
 
 -   [Conteúdos](#conteúdos)
 -   [Ensino](#ensino)
-    -   [Aulas](#aulas)
-    -   [Materiais](#materiais)
-    -   [Fatores mais pessoais](#fatores-mais-pessoais)
-    -   [Carga de trabalho](#carga-de-trabalho)
-    -   [Dificuldade do Curso](#dificuldade-do-curso)
-    -   [Horário](#horário)
-    -   [Avaliação](#avaliação)
-    -   [Opções Extra](#opções-extra)
+    -   [Aulas 👩‍🏫](#aulas-)
+    -   [Materiais 📚](#materiais-)
+    -   [Fatores mais pessoais 🙍‍♂️](#fatores-mais-pessoais-️)
+    -   [Carga de trabalho ⏰](#carga-de-trabalho-)
+    -   [Dificuldade do Curso 🪖](#dificuldade-do-curso-)
+    -   [Horário ⏰](#horário-)
+    -   [Avaliação 🧐](#avaliação-)
     -   [Equivalências](#equivalências)
         -   [1º Semestre](#1º-semestre)
-        -   [2º Semestre](#2º-semestre)
--   [Qualidade de Vida](#qualidade-de-vida)
-    -   [Alojamento](#alojamento)
-        -   [Opções Alojamento sugeridas pela universidade:](#opções-alojamento-sugeridas-pela-universidade)
-    -   [Transportes](#transportes)
-        -   [Dentro da cidade](#dentro-da-cidade)
-        -   [Para fora da cidade](#para-fora-da-cidade)
--   [Quotes](#quotes)
--   [Informação Extra](#informação-extra)
+-   [Qualidade de Vida ❤️](#qualidade-de-vida-️)
+    -   [Alojamento 🏡](#alojamento-)
+    -   [Transportes 🚌](#transportes-)
+-   [Quotes 🎙️](#quotes-️)
 
 # Ensino
 
-Foco: <u>Física e Engenharia Física</u>
+Foco: Física, em particular Física Quântica, de Partículas, Nuclear e Astrofísica
 
-### Aulas
+### Aulas 👩‍🏫
 
--   Principalmente em Inglês
--   Algumas cadeiras em Alemão
+-   Em Inglês
 
-### Materiais
+### Materiais 📚
 
--   Disponibilizados na plataforma online da universidade
--   Livros em bibliotecas
+-   Os manuais/notas dos professores são bastante bons.
 
-### Fatores mais pessoais
+### Fatores mais pessoais 🙍‍♂️
 
--   Qualidade de ensino boa
--   Proximidade entre os docentes e os alunos
--   Ótima qualidade serviços académicos
--   Ótima disponibilidade de sitios para estudar
+-   Bibliotecas têm todos os livros necessário
 
-### Carga de trabalho
+### Carga de trabalho ⏰
 
-Média
+Inferior a MEFT
 
-### Dificuldade do Curso
+### Dificuldade do Curso 🪖
 
-Média
+Inferior a MEFT
 
-### Horário
+### Horário ⏰
 
 -   Consoante as cadeiras escolhidas
 -   Sobreposições podem ocorrer
 -   Carga horária baixa
 -   Aulas sobretudo de manhã
 
-### Avaliação
+### Avaliação 🧐
 
--   testes
--   exames
--   provas orais
-
-### Opções Extra
-
--   Atividades extra-curriculares:
--   -   cursos de línguas
--   -   desportos
--   -   (...)
+-   Avaliação é só por exames (sem alternativas)
+-   Com uma única fase
+-   Numa semana com exames todos os dias
+-   Esta única hipótese:
+    -   dificulta imenso
+    -   protege pouco os alunos.
 
 ### Equivalências
 
 #### 1º Semestre
 
--   Astrofísica;
--   Nanotecnologias e Nanoeletrónica;
--   Física e Tecnologia de Plasmas;
--   Instrumentação;
--   Opcionais Livres.
+-   Complementos de Mecânica Quântica;
+-   Relatividade e Cosmologia;
+-   Métodos Experimentais em Física de Partículas;
+-   Física Nuclear;
+-   Física de Partículas;
+-   Astrofísica.
 
-#### 2º Semestre
+# Qualidade de Vida ❤️
 
--   Introdução à Investigação;
--   Tecnologias Energéticas;
--   Tecnologia Nuclear e de Física de Partículas;
--   Ótica e Lasers;
--   Astrofísica;
--   Opcionais Livres.
+### Alojamento 🏡
 
-# Qualidade de Vida
+-   Bastante difícil de arranjar
+-   Melhor opção: conseguir ficar na Cité Université, (necessária candidatura imediata).
+-   Na residência universitária os quartos custam 350-500 € (é mais difícil arranjar sem partilhar quarto, que são mais em conta)
+-   Alojamento na residência universitária é bastante bom
 
-### Alojamento
+### Transportes 🚌
 
-#### Opções Alojamento sugeridas pela universidade:
+-   Há muitos meios de transporte
+-   Impecáveis e baratos
+-   Bastantes descontos para estudantes em Paris
 
--   Boas e por volta de 400-450€
+Os produtos básicos são de boa qualidade e fáceis de arranjar
 
-### Transportes
+Em geral, as pessoas são pouco hospitaleiras e simpáticas.
 
-#### Dentro da cidade
-
--   Aceitáveis
--   Não muito caros
-
-#### Para fora da cidade
-
--   Pouco frequentes
--   Boa relação qualidade/preço
-
-# Quotes
+# Quotes 🎙️
 
 ```
-Recomendo vivamente a cidade de Munique como escolha para fazer
-Erasmus, e em particular a TUM
+Estudar fora deu-me uma nova perspetiva.
 ```
-
-# Informação Extra
-
-Os alunos que frequentaram esta faculdade tiveram bolsa de estudo, mas disseram que esta não chegou para as despesas necessárias. <u>A cidade é bastante segura.</u>
-Informações extra [aqui](https://docs.google.com/document/d/16rxoFQBVPXwgE1D9TChpHvunQHEMwpYfS62ouD-tFZg/edit).

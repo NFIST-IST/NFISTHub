@@ -2,7 +2,7 @@
 sectionId: aalto
 ---
 
-<img src="images/tum.webp" alt="TUM" class="rounded-image">
+<img src="images/tum.webp" alt="Aalto" class="rounded-image">
 
 # Conteúdos
 

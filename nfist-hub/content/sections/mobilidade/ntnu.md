@@ -21,109 +21,115 @@ sectionId: ntnu
         -   [2º Semestre](#2º-semestre)
 -   [Qualidade de Vida](#qualidade-de-vida)
     -   [Alojamento](#alojamento)
-        -   [Opções Alojamento sugeridas pela universidade:](#opções-alojamento-sugeridas-pela-universidade)
     -   [Transportes](#transportes)
-        -   [Dentro da cidade](#dentro-da-cidade)
-        -   [Para fora da cidade](#para-fora-da-cidade)
 -   [Quotes](#quotes)
--   [Informação Extra](#informação-extra)
 
 # Ensino
 
-Foco: <u>Física e Engenharia Física</u>
-
 ### Aulas
 
--   Principalmente em Inglês
--   Algumas cadeiras em Alemão
+-   Em Inglês
 
 ### Materiais
 
--   Disponibilizados na plataforma online da universidade
--   Livros em bibliotecas
+-   Sebentas
+-   Fichas
+-   Aulas gravadas.
 
 ### Fatores mais pessoais
 
--   Qualidade de ensino boa
--   Proximidade entre os docentes e os alunos
--   Ótima qualidade serviços académicos
--   Ótima disponibilidade de sitios para estudar
+-   Qualidade do ensino excelente
+-   Os docentes apresentam-se altamente disponíveis e próximos dos alunos.
+-   Os serviços académicos são fantásticos
+-   Os lugares para estudar tanto na universidade como na cidade estão muito disponíveis e são de ótima qualidade
+
+<u>É considerada como uma das melhores escolas de engenharia da Escandinávia!</u>
 
 ### Carga de trabalho
 
-Média
+Inferior a MEFT
 
 ### Dificuldade do Curso
 
-Média
+Inferior a MEFT
 
 ### Horário
 
--   Consoante as cadeiras escolhidas
--   Sobreposições podem ocorrer
--   Carga horária baixa
--   Aulas sobretudo de manhã
+-   Carga horária reduzida
+-   Depende muito das cadeiras escolhidas
+-   Pode haver sobreposições
 
 ### Avaliação
 
--   testes
--   exames
--   provas orais
+-   Exames
 
 ### Opções Extra
 
--   Atividades extra-curriculares:
--   -   cursos de línguas
--   -   desportos
--   -   (...)
+-   A NTNU permite dedicar imenso tempo a atividades extracurriculares, excelentemente organizadas:
+    -   há eventos todas as semanas em que se podem inscrever
+        -   praticar desportos
+        -   fazer caminhadas
+        -   jantares
+        -   coro
+        -   ski
+        -   jogos entre estudantes.
+-   Não é uma cidade grande, mas é a maior cidade de estudantes da Noruega.
+    -   Atividades:
+        -   concertos
+        -   improvs
+        -   diversos eventos sempre a acontecer
+-   Apesar de ser na Europa, é uma experiência muito diferente da de Portugal.
 
 ### Equivalências
 
 #### 1º Semestre
 
--   Astrofísica;
--   Nanotecnologias e Nanoeletrónica;
--   Física e Tecnologia de Plasmas;
--   Instrumentação;
--   Opcionais Livres.
+-   Ótica e Lasers;
+-   Relatividade e Cosmologia;
+-   Empreendedorismo, Inovação e Gestão de Ciência;
+-   Física de Partículas;
+-   Opções Livres.
 
 #### 2º Semestre
 
--   Introdução à Investigação;
--   Tecnologias Energéticas;
--   Tecnologia Nuclear e de Física de Partículas;
--   Ótica e Lasers;
 -   Astrofísica;
--   Opcionais Livres.
+-   Complementos de Mecânica Quântica;
+-   Opções Livres.
 
 # Qualidade de Vida
 
 ### Alojamento
 
-#### Opções Alojamento sugeridas pela universidade:
-
--   Boas e por volta de 400-450€
+-   em residências estudantis (as universidades trabalham com grupos de residências, apartamentos, etc.):
+    -   bastante fácil de arranjar
+    -   custa cerca de 450 EUR/mês (entre 4000-5000 nok/mês)
+-   É sempre possível arrendar habitações de melhor qualidade:
+    -   Relação preço/qualidade não será muito vantajosa
+-   Um aluno que fez Erasmus durante o ano inteiro conseguiu um preço de 430 EUR/mês, com despesas incluídas.
 
 ### Transportes
 
-#### Dentro da cidade
+-   dentro da cidade:
+    -   muito fácil
+-   transportes são de boa qualidade (principalmente, os autocarros)
+-   caros
+-   Andar de bicicleta ajuda a poupar imenso
+-   fora da cidade e internacionais:
+    -   complicados de arranjar
+-   são muito bons
+-   relação preço-qualidade destes é melhor do que os transportes urbanos
 
--   Aceitáveis
--   Não muito caros
+A bolsa (entregue a um aluno que fez Erasmus durante o ano inteiro) foi entregue cerca de três meses depois e chegou apenas para cobrir parcialmente os custos.
 
-#### Para fora da cidade
+Encontra-se facilmente alimentos e produtos essenciais de excelente qualidade, mas os preços são bastante elevados. O custo de vida é bastante elevado no geral.
 
--   Pouco frequentes
--   Boa relação qualidade/preço
+É uma cidade que se preocupa com a qualidade dos meios para fazer atividade física, ginásios por exemplo, sendo estes consideravelmente melhores do que Portugal. Mesmo os locais tomam cuidado em ter hábitos mais poupados, como comer mais em casa e só ir beber com os amigos, depois, a um bar. Há, também, muito o hábito de se dar gratuitamente as coisas que já não têm utilidade para o próprio.
+
+O país é bastante seguro, hospitaleiro e amável!
 
 # Quotes
 
 ```
-Recomendo vivamente a cidade de Munique como escolha para fazer
-Erasmus, e em particular a TUM
+Muda muito a perspetiva que uma pessoa tem sobre fisica, em especifico meft e o
+técnico.
 ```
-
-# Informação Extra
-
-Os alunos que frequentaram esta faculdade tiveram bolsa de estudo, mas disseram que esta não chegou para as despesas necessárias. <u>A cidade é bastante segura.</u>
-Informações extra [aqui](https://docs.google.com/document/d/16rxoFQBVPXwgE1D9TChpHvunQHEMwpYfS62ouD-tFZg/edit).

@@ -15,47 +15,45 @@ sectionId: uva
     -   [Dificuldade do Curso](#dificuldade-do-curso)
     -   [Horário](#horário)
     -   [Avaliação](#avaliação)
-    -   [Opções Extra](#opções-extra)
     -   [Equivalências](#equivalências)
         -   [1º Semestre](#1º-semestre)
         -   [2º Semestre](#2º-semestre)
 -   [Qualidade de Vida](#qualidade-de-vida)
     -   [Alojamento](#alojamento)
-        -   [Opções Alojamento sugeridas pela universidade:](#opções-alojamento-sugeridas-pela-universidade)
     -   [Transportes](#transportes)
         -   [Dentro da cidade](#dentro-da-cidade)
         -   [Para fora da cidade](#para-fora-da-cidade)
 -   [Quotes](#quotes)
--   [Informação Extra](#informação-extra)
 
 # Ensino
 
-Foco: <u>Física e Engenharia Física</u>
-
 ### Aulas
 
--   Principalmente em Inglês
--   Algumas cadeiras em Alemão
+-   Em Inglês
 
 ### Materiais
 
--   Disponibilizados na plataforma online da universidade
--   Livros em bibliotecas
+-   Notas das aulas seguidos também pelos professores nas aulas
+-   Fichas de exercícios
+-   Livros.
 
 ### Fatores mais pessoais
 
--   Qualidade de ensino boa
--   Proximidade entre os docentes e os alunos
--   Ótima qualidade serviços académicos
--   Ótima disponibilidade de sitios para estudar
+-   Grande disponibilidade de sítios para estudar na universidade
+-   A faculdade de ciências é recente e moderna, inclui:
+    -   Bastantes computadores para estudo, caso os alunos não queiram andar com o portátil atrás
+-   Grande proximidade aos professores, sendo realçada a preocupação dos mesmos com os alunos.
+-   Qualidade do ensino é elevada
+-   Os serviços académicos da faculdade são bastante bons:
+    -   Em termos de burocracias, todos os problemas foram com os serviços académicos portugueses e não na universidade de Amsterdão.
 
 ### Carga de trabalho
 
-Média
+Reduzida
 
 ### Dificuldade do Curso
 
-Média
+Reduzida
 
 ### Horário
 
@@ -66,64 +64,69 @@ Média
 
 ### Avaliação
 
--   testes
--   exames
--   provas orais
-
-### Opções Extra
-
--   Atividades extra-curriculares:
--   -   cursos de línguas
--   -   desportos
--   -   (...)
+-   Em inglês
+-   Avaliação contínua
+-   Exame
+-   TPCs
+-   Depende da cadeira
+-   Na maior parte é por exame, na última semana de aulas
+    "Recurso":
+    -   Só existe mais um momento de avaliação
+    -   Para ser utilizado, o aluno deve abdicar da nota do primeiro exame (bastante arriscado)
+-   Salvaguarda menos os alunos.
 
 ### Equivalências
 
 #### 1º Semestre
 
--   Astrofísica;
--   Nanotecnologias e Nanoeletrónica;
--   Física e Tecnologia de Plasmas;
--   Instrumentação;
--   Opcionais Livres.
+-   Física de Partículas;
+-   Complementos de Mecânica Quântica;
+-   Física da Matéria Condensada;
+-   Relatividade e Cosmologia;
+-   Óptica Quântica;
+-   Empreendedorismo;
 
 #### 2º Semestre
 
 -   Introdução à Investigação;
--   Tecnologias Energéticas;
--   Tecnologia Nuclear e de Física de Partículas;
--   Ótica e Lasers;
--   Astrofísica;
--   Opcionais Livres.
+-   Modelo Standard e Nova Física;
+-   Opções livres.
 
 # Qualidade de Vida
 
 ### Alojamento
 
-#### Opções Alojamento sugeridas pela universidade:
-
--   Boas e por volta de 400-450€
+-   Possibilidade de deixar a universidade tratar do alojamento: custo de cerca de 200 euros
+-   A faculdade também sugere opções de alojamento:
+    -   custos numa residência de estudantes: 350-600euros/mês
+    -   depende de:
+        -   qualidade do quarto
+        -   se é individual ou partilhado
+        -   a localização
 
 ### Transportes
 
 #### Dentro da cidade
 
--   Aceitáveis
--   Não muito caros
+-   Bons
+-   Caros
+-   Transporte de eleição: a bicicleta
 
 #### Para fora da cidade
 
--   Pouco frequentes
--   Boa relação qualidade/preço
+-   Dificuldade em arranjar transporte
+-   Boa relação qualidade/preço.
+
+Os alunos que frequentaram este programa tiverem direito a bolsa de estudo. No entanto, esta não chegou dentro do tempo previsto, por vezes com 6 meses de atraso, e não foi suficiente para suportar as despesas necessárias do dia-a-dia. É feita menção que caso se candidate a um semestre e, de seguida, se pedir extensão, o valor da bolsa é aumentado. Aconselha-se, portanto no caso de dúvida, fazer-se a candidatura para um ano e, caso se queira reduzir o tempo, é feita a correção do valor da bolsa facilmente. O contrário já não é verdade.
+
+A cidade é bastante segura, apesar de alguns incidentes. Há a possibilidade de praticar atividades extracurriculares, nomeadamente praticar um desporto ou ir ao ginásio existente na faculdade.
 
 # Quotes
 
 ```
-Recomendo vivamente a cidade de Munique como escolha para fazer
-Erasmus, e em particular a TUM
+Amesterdão central é fixe ;)
 ```
 
-# Informação Extra
-
-Os alunos que frequentaram esta faculdade tiveram bolsa de estudo, mas disseram que esta não chegou para as despesas necessárias. <u>A cidade é bastante segura.</u>
-Informações extra [aqui](https://docs.google.com/document/d/16rxoFQBVPXwgE1D9TChpHvunQHEMwpYfS62ouD-tFZg/edit).
+```
+Experiência única. Bom não só para o currículo, mas tambem para a alma.
+```

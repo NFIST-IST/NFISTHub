@@ -17,113 +17,112 @@ sectionId: kth
     -   [Avaliação](#avaliação)
     -   [Opções Extra](#opções-extra)
     -   [Equivalências](#equivalências)
-        -   [1º Semestre](#1º-semestre)
         -   [2º Semestre](#2º-semestre)
 -   [Qualidade de Vida](#qualidade-de-vida)
     -   [Alojamento](#alojamento)
-        -   [Opções Alojamento sugeridas pela universidade:](#opções-alojamento-sugeridas-pela-universidade)
     -   [Transportes](#transportes)
-        -   [Dentro da cidade](#dentro-da-cidade)
-        -   [Para fora da cidade](#para-fora-da-cidade)
 -   [Quotes](#quotes)
--   [Informação Extra](#informação-extra)
 
 # Ensino
 
-Foco: <u>Física e Engenharia Física</u>
+Foco: <u>Engenharia</u>
 
 ### Aulas
 
--   Principalmente em Inglês
--   Algumas cadeiras em Alemão
+-   Em Inglês
 
 ### Materiais
 
--   Disponibilizados na plataforma online da universidade
--   Livros em bibliotecas
+-   Incluem:
+-   Apresentações
+-   Vídeos
 
 ### Fatores mais pessoais
 
--   Qualidade de ensino boa
--   Proximidade entre os docentes e os alunos
--   Ótima qualidade serviços académicos
--   Ótima disponibilidade de sitios para estudar
+-   Qualidade do ensino é, comparativamente, melhor
+-   Os docentes são mais disponíveis e próximos.
+-   Os serviços académicos são excelentes
+-   Os lugares para estudar estão muito disponíveis e são incríveis.
+
+<u>Sugestão:</u> Aconselhamos a escolher a KTH ou outras universidades suecas àqueles que querem experimentar a cultura e estilo de vida da Suécia e não apenas pelo ensino, que pode ser uma desilusão que não preenche completamente a experiência de Erasmus.
 
 ### Carga de trabalho
 
-Média
+Inferior a MEFT
 
 ### Dificuldade do Curso
 
-Média
+Inferior a MEFT
 
 ### Horário
 
 -   Consoante as cadeiras escolhidas
 -   Sobreposições podem ocorrer
--   Carga horária baixa
+-   Carga horária extremamente baixa
 -   Aulas sobretudo de manhã
 
 ### Avaliação
 
--   testes
--   exames
--   provas orais
+-   Trabalhos
+-   Exames
 
 ### Opções Extra
 
 -   Atividades extra-curriculares:
--   -   cursos de línguas
--   -   desportos
--   -   (...)
+    -   cursos de sueco
+    -   grupos de estudantes, como por exemplo estilo 'Jobshop'.
+-   Viajar durante metade da duração de Erasmus não é de todo impossível
+-   A KTH pode ser uma boa pausa no ensino no IST, que se pode tornar muito cansativo e por vezes frustrante.
 
 ### Equivalências
-
-#### 1º Semestre
-
--   Astrofísica;
--   Nanotecnologias e Nanoeletrónica;
--   Física e Tecnologia de Plasmas;
--   Instrumentação;
--   Opcionais Livres.
 
 #### 2º Semestre
 
 -   Introdução à Investigação;
--   Tecnologias Energéticas;
--   Tecnologia Nuclear e de Física de Partículas;
--   Ótica e Lasers;
--   Astrofísica;
--   Opcionais Livres.
+-   Técnicas de Micro e Nanofabricação;
+-   Métodos Experimentais em Física de Partículas;
+-   Empreendedorismo, Inovação e Gestão de Ciência;
+-   Óptica e Lasers.
 
 # Qualidade de Vida
 
 ### Alojamento
 
-#### Opções Alojamento sugeridas pela universidade:
-
--   Boas e por volta de 400-450€
+-   Em residências universitárias:
+    -   Muito fácil de arranjar
+    -   Custa cerca de 500 EUR/mês
+    -   Muito boa qualidade
+    -   Processo de candidatura é muito cómodo.
+-   É possível encontrar opções mais em conta (embora sejam, no geral, caras)
 
 ### Transportes
 
-#### Dentro da cidade
+-   Dentro da cidade
+-   Muito fácil
+-   Boa qualidade
+-   Fora do país
+-   Não é difícil de arranjar
+-   A relação qualidade/preço podia ser melhor
 
--   Aceitáveis
--   Não muito caros
+A bolsa, entregue (a uma aluna que fez Erasmus no segundo semestre) foi entregue depois, e não foi de todo suficiente para cobrir os custos da estadia.
 
-#### Para fora da cidade
+Os produtos básicos são excelentes, mas os preços são 1.5 a 2.5 superiores em comparação com em Portugal: um quilo da carne mais barata no supermercado custa 15 EUR. A. O país é bastante seguro, apesar de ter havido um atentado terrorista enquanto a aluna de MEFT em Erasmus estava em Estocolmo.
 
--   Pouco frequentes
--   Boa relação qualidade/preço
+A hospitalidade é muito boa e as pessoas são amáveis!
 
 # Quotes
 
 ```
-Recomendo vivamente a cidade de Munique como escolha para fazer
-Erasmus, e em particular a TUM
+É a forma mais fantástica de ganhar perspetiva do mundo e até do nosso próprio
+sentido de resiliência e criatividade perante a mudança
 ```
 
-# Informação Extra
+```
+De Novembro a Fevereiro há tipo 4 horas de sol por dia. É mais esquisito do que
+parece e faz mesmo diferença na nossa sanidade mental
+```
 
-Os alunos que frequentaram esta faculdade tiveram bolsa de estudo, mas disseram que esta não chegou para as despesas necessárias. <u>A cidade é bastante segura.</u>
-Informações extra [aqui](https://docs.google.com/document/d/16rxoFQBVPXwgE1D9TChpHvunQHEMwpYfS62ouD-tFZg/edit).
+```
+Don’t go “just because”. Pensem nas equivalências e no que vão procurar lá fora,
+mesmo que seja apenas crescer pessoalmente
+```

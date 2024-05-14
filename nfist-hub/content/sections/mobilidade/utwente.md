@@ -10,48 +10,62 @@ sectionId: utwente
 -   [Ensino](#ensino)
     -   [Aulas](#aulas)
     -   [Materiais](#materiais)
+    -   [Aulas](#aulas-1)
+    -   [Materiais](#materiais-1)
     -   [Fatores mais pessoais](#fatores-mais-pessoais)
+    -   [Localização 📍](#localização-)
     -   [Carga de trabalho](#carga-de-trabalho)
     -   [Dificuldade do Curso](#dificuldade-do-curso)
     -   [Horário](#horário)
     -   [Avaliação](#avaliação)
-    -   [Opções Extra](#opções-extra)
     -   [Equivalências](#equivalências)
         -   [1º Semestre](#1º-semestre)
-        -   [2º Semestre](#2º-semestre)
 -   [Qualidade de Vida](#qualidade-de-vida)
     -   [Alojamento](#alojamento)
-        -   [Opções Alojamento sugeridas pela universidade:](#opções-alojamento-sugeridas-pela-universidade)
     -   [Transportes](#transportes)
-        -   [Dentro da cidade](#dentro-da-cidade)
-        -   [Para fora da cidade](#para-fora-da-cidade)
+    -   [Lazer 🪩](#lazer-)
 -   [Quotes](#quotes)
--   [Informação Extra](#informação-extra)
 
 # Ensino
 
-Foco: <u>Física e Engenharia Física</u>
+Foco: Aplicações de Matéria Condensada como Supercondutividade, e Ótica e Lasers
 
 ### Aulas
 
--   Principalmente em Inglês
--   Algumas cadeiras em Alemão
+-   Em Inglês
 
 ### Materiais
 
--   Disponibilizados na plataforma online da universidade
--   Livros em bibliotecas
+-   Bibliografia sugerida
+-   Sebentas organizadas pelos professores
+-   Exceção: Pode haver uma cadeira autodidática
+
+### Aulas
+
+-   Em Inglês
+
+### Materiais
+
+-   Bibliografia sugerida
+-   Sebentas organizadas pelos professores
+-   Exceção: Pode haver uma cadeira autodidática
 
 ### Fatores mais pessoais
 
--   Qualidade de ensino boa
--   Proximidade entre os docentes e os alunos
--   Ótima qualidade serviços académicos
--   Ótima disponibilidade de sitios para estudar
+-   Bibliotecas com acesso a computadores
+-   Salas de estudo
+-   Pouca disponibilidade de espaços de estudo
+-   Qualidade do ensino é parecida com meft
+-   Proximidade com os docentes parecida com MEFT
+-   Bons serviços administrativos.
+
+### Localização 📍
+
+Enschede
 
 ### Carga de trabalho
 
-Média
+Quase nula comparada com MEFT
 
 ### Dificuldade do Curso
 
@@ -59,71 +73,67 @@ Média
 
 ### Horário
 
--   Consoante as cadeiras escolhidas
--   Sobreposições podem ocorrer
--   Carga horária baixa
--   Aulas sobretudo de manhã
+-   Cadeiras estruturadas em quartis de 15 ECT's cada
+    -   2 quartis por semestre de 3 cadeiras
+    -   8 semanas/quartil
+    -   2 semanas para exames
+-   Carga horária leve : 12 a 15 horas de aulas por semana
 
 ### Avaliação
 
--   testes
--   exames
--   provas orais
-
-### Opções Extra
-
--   Atividades extra-curriculares:
--   -   cursos de línguas
--   -   desportos
--   -   (...)
+-   Trabalhos de casa para avaliação
+-   Exames
+-   Apresentações
+-   Possivelmente orais
 
 ### Equivalências
 
 #### 1º Semestre
 
--   Astrofísica;
+-   Óptica e Lasers;
+-   Física da Matéria Condensada;
+-   Complementos de Mecânica Quântica;
+-   Física de Partículas;
 -   Nanotecnologias e Nanoeletrónica;
--   Física e Tecnologia de Plasmas;
--   Instrumentação;
--   Opcionais Livres.
-
-#### 2º Semestre
-
--   Introdução à Investigação;
--   Tecnologias Energéticas;
--   Tecnologia Nuclear e de Física de Partículas;
--   Ótica e Lasers;
--   Astrofísica;
--   Opcionais Livres.
+-   Introdução à Investigação.
 
 # Qualidade de Vida
 
 ### Alojamento
 
-#### Opções Alojamento sugeridas pela universidade:
-
--   Boas e por volta de 400-450€
+-   Rendas:
+    -   quartos extremamente pequenos: desde 200-500 €/mês
+    -   quartos mobilados: não a menos de 350 €
+    -   Excelente qualidade nos alojamentos
+    -   Como encontrar:
+        -   em websites, (a própria universidade tem um serviço que ajuda na procura, mas que só está disponível depois de se estar registado na universidade)
+        -   recursos escassos para procurar alojamento
+        -   extremamente difícil mesmo online.
+    -   Onde viver: - cidade mais perto da faculdade: Enschede (onde a maior parte dos estudantes vivem.) - Gronau na Alemanha, na fronteira com a Holanda
+        <u>Sugestão:</u> pedir contactos de alunos que já tenham ido.
 
 ### Transportes
 
-#### Dentro da cidade
+-   Muito bons dentro da cidade e no país
+-   preços razoavelmente elevados
+-   Compensa mais alugar/comprar bicicleta pois a cidade tem condições ótimas para tal meio
+-   Todas as estradas são super largas para ter ciclovias de vários sentidos, com sinalização luminosa específica, e sítios para deixar a bicicleta.
+-   Comboios baratos (max 25€ para atravessar o país todo).
 
--   Aceitáveis
--   Não muito caros
+### Lazer 🪩
 
-#### Para fora da cidade
+-   complexo desportivo com imensas equipas desportivas (incluíndo desportos aquáticos)
+-   parede de escalada ao longo de um dos prédios residenciais
+-   cursos de línguas estrangeiras (incluíndo holandês, o que pode ser útil).
 
--   Pouco frequentes
--   Boa relação qualidade/preço
+Os alunos costumam receber bolsa de estudo, que em geral não é de todo suficiente devido ao elevado custo de vida. Alimentação mais cara do que em Portugal.
+
+Lojas para comprar o essencial muito perto das residências, com uma boa relação preço qualidade. Cidade extremamente segura, com pessoas com muita hospitalidade! Quase toda a gente fala Inglês e são todos muito bem educados.
 
 # Quotes
 
 ```
-Recomendo vivamente a cidade de Munique como escolha para fazer
-Erasmus, e em particular a TUM
+Mesmo considerando as restrições por causa da pandemia, não me arrependo nem um
+segundo de ter ido para a Holanda. Acho que é uma oportunidade espetacular de ir um
+bocado à descoberta
 ```
-
-# Informação Extra
-
-Os alunos que frequentaram esta faculdade tiveram bolsa de estudo, mas disseram que esta não chegou para as despesas necessárias. <u>A cidade é bastante segura.</u>
-Informações extra [aqui](https://docs.google.com/document/d/16rxoFQBVPXwgE1D9TChpHvunQHEMwpYfS62ouD-tFZg/edit).

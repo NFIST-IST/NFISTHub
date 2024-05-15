@@ -1,5 +1,5 @@
 ---
-sectionId: pulsar
+sectionId: concurso-pulsar
 ---
 
 <div style="text-align: justify">

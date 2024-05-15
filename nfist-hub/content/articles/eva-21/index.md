@@ -82,21 +82,31 @@ que tenhamos.
 
 ## Galeria de Imagens 📸
 
-<img src="../../images/eva/eva-21/final3cartaznaopart.jpg">
-<img src="../../images/eva/eva-21/horario.png">
+<div style="display: flex;">
+    <div style="flex-basis: 48%;  margin-right: 2%;">
+        <img src="../../images/eva/eva-21/final3cartaznaopart.jpg">
+    </div>
+    <div style="flex-basis: 48%;  margin-right: 2%;">
+        <img src="../../images/eva/eva-21/horario.png">
+    </div>
+</div>
 
-<img src="../../images/eva/eva-21/i1.png">
-<img src="../../images/eva/eva-21/i2.png">
-<img src="../../images/eva/eva-21/i3.png">
-<img src="../../images/eva/eva-21/i4.png">
+<div style="display: flex;">
+    <div style="flex-basis: 48%;  margin-right: 2%;">
+        <img src="../../images/eva/eva-21/i1.png">
+        <img src="../../images/eva/eva-21/i2.png">
+    </div>
+    <div style="flex-basis: 48%;  margin-right: 2%;">
+        <img src="../../images/eva/eva-21/i3.png">
+        <img src="../../images/eva/eva-21/i4.png">
+    </div>
+</div>
 
-<div>
-    <figure>
+<div style="display: flex;">
+    <div style="flex-basis: 48%;  margin-right: 2%;">
         <img src="../../images/eva/eva-21/g1.png" alt="Image 1">
-        <figcaption>Foto de Grupo</figcaption>
-    </figure>
-    <figure>
+    </div>
+    <div style="flex-basis: 48%;  margin-right: 2%;">
         <img src="../../images/eva/eva-21/g2.png" alt="Image 2">
-        <figcaption>Foto de Grupo</figcaption>
-    </figure>
+    </div>
 </div>

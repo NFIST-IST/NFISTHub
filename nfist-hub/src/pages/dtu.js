@@ -6,7 +6,7 @@ export default function DTUPage() {
         <>
             <Seo title="DTU" useTitleTemplate={true} noIndex={true} />
             <Page>
-                <NormalSection sectionId="dtu" heading="DTU" />
+                <NormalSection sectionId="dtu" heading="Danmarks Tekniske Universitet (DTU)" />
             </Page>
         </>
     );

@@ -28,44 +28,70 @@ Com Palestras, Concurso de Posters, Business Talks, Debate, Coffee With a Physic
 
 ---
 
-# Horário
+# Horário ⏰
 
-<img src="../../images/jef/jef6/h1.png">
-<img src="../../images/jef/jef6/h2.png">
-<img src="../../images/jef/jef6/h3.jpg">
-
----
-
-# Palestras
-
-<img src="../../images/jef/jef6/image-35.png">
-<img src="../../images/jef/jef6/image-36.png">
-<img src="../../images/jef/jef6/image-37.png">
-<img src="../../images/jef/jef6/image-38.png">
-<img src="../../images/jef/jef6/image-39.png">
-<img src="../../images/jef/jef6/image-40.png">
-<img src="../../images/jef/jef6/image-41.png">
+<div style="display: flex;">
+    <div style="flex-basis: 48%;  margin-right: 2%;">
+        <img src="../../images/jef/jef6/h1.png">
+    </div>
+    <div style="flex-basis: 48%;  margin-right: 2%;">
+        <img src="../../images/jef/jef6/h2.png">
+    </div>
+    <div style="flex-basis: 48%;">
+        <img src="../../images/jef/jef6/h3.jpg">
+    </div>
+</div>
 
 ---
 
-# Bussiness Talks
+# Palestras 🎤
 
-<img src="../../images/jef/jef6/image-42.png">
-<img src="../../images/jef/jef6/image-43.png">
-<img src="../../images/jef/jef6/image-44.png">
-<img src="../../images/jef/jef6/image-45.png">
+<div style="display: flex;">
+    <div style="flex-basis: 48%;  margin-right: 2%;">
+        <img src="../../images/jef/jef6/image-35.png">
+        <img src="../../images/jef/jef6/image-36.png">
+        <img src="../../images/jef/jef6/image-37.png">
+        <img src="../../images/jef/jef6/image-38.png">
+    </div>
+    <div style="flex-basis: 48%;  margin-right: 2%;">
+        <img src="../../images/jef/jef6/image-39.png">
+        <img src="../../images/jef/jef6/image-40.png">
+        <img src="../../images/jef/jef6/image-41.png">
+    </div>
+</div>
 
 ---
 
-# Workshops
+# Bussiness Talks 👨‍💼
 
-<img src="../../images/jef/jef6/image-46.png">
-<img src="../../images/jef/jef6/image-47.png">
-<img src="../../images/jef/jef6/image-48.png">
-<img src="../../images/jef/jef6/image-49.png">
+<div style="display: flex;">
+    <div style="flex-basis: 48%;  margin-right: 2%;">
+        <img src="../../images/jef/jef6/image-42.png">
+        <img src="../../images/jef/jef6/image-43.png">
+    </div>
+    <div style="flex-basis: 48%;  margin-right: 2%;">
+        <img src="../../images/jef/jef6/image-44.png">
+        <img src="../../images/jef/jef6/image-45.png">
+    </div>
+</div>
 
 ---
 
-# Outras Atividades
+# Workshops 🛠️
+
+<div style="display: flex;">
+    <div style="flex-basis: 48%;  margin-right: 2%;">
+        <img src="../../images/jef/jef6/image-46.png">
+        <img src="../../images/jef/jef6/image-47.png">
+    </div>
+    <div style="flex-basis: 48%;  margin-right: 2%;">
+        <img src="../../images/jef/jef6/image-48.png">
+        <img src="../../images/jef/jef6/image-49.png">
+    </div>
+</div>
+
+---
+
+# Outras Atividades 🎉
 
 <img src="../../images/jef/jef6/image-50.png">

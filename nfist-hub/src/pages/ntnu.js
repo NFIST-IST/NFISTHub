@@ -6,7 +6,7 @@ export default function NTNUPage() {
         <>
             <Seo title="NTNU" useTitleTemplate={true} noIndex={true} />
             <Page>
-                <NormalSection sectionId="ntnu" heading="NTNU" />
+                <NormalSection sectionId="ntnu" heading="Norwegian University of Science and Technology (NTNU)" />
             </Page>
         </>
     );

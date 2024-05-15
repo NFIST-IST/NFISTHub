@@ -6,7 +6,7 @@ export default function DiderotPage() {
         <>
             <Seo title="Diderot" useTitleTemplate={true} noIndex={true} />
             <Page>
-                <NormalSection sectionId="diderot" heading="Diderot" />
+                <NormalSection sectionId="diderot" heading="Paris Diderot University" />
             </Page>
         </>
     );

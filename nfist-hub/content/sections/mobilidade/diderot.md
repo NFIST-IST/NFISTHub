@@ -2,84 +2,110 @@
 sectionId: diderot
 ---
 
-<img src="images/tum.webp" alt="TUM" class="rounded-image">
+<img src="images/diderot.jpg" alt="Diderot" class="rounded-image">
 
-# Conteúdos
+---
 
--   [Conteúdos](#conteúdos)
--   [Ensino](#ensino)
-    -   [Aulas 👩‍🏫](#aulas-)
-    -   [Fatores mais pessoais 🙍‍♂️](#fatores-mais-pessoais-️)
-    -   [Carga de trabalho ⏰](#carga-de-trabalho-)
-    -   [Materiais 📚](#materiais-)
-    -   [Avaliação 🧐](#avaliação-)
-    -   [Opções Extra 🏅](#opções-extra-)
-    -   [Equivalências](#equivalências)
-        -   [1º Semestre](#1º-semestre)
--   [Qualidade de Vida ❤️](#qualidade-de-vida-️)
-    -   [Alojamento 🏡](#alojamento-)
-    -   [Transportes 🚌](#transportes-)
+# Ensino 📚
 
-# Ensino
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Aulas 👩‍🏫</h3>
+        <ul>
+            <li>Principalmente em Francês</li>
+            <li>Existem algumas do 2º Ano de Mestrado em Inglês</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Materiais 📚</h3>
+        <ul>
+            <li>Disponibilizados na plataforma online da universidade</li>
+            <li>Livros em bibliotecas</li>
+        </ul>
+    </div>
+</div>
 
-### Aulas 👩‍🏫
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Fatores mais pessoais 🙍‍♂️</h3>
+        <ul>
+            <li>Qualidade do ensino é semelhante a em MEFT</li>
+            <li>Os professores são disponíveis e próximos</li>
+            <li>Os serviços académicos da universidade são aceitáveis</li>
+            <li>Há muitos lugares para estudar de excelente qualidade</li>
+            <li>A faculdade tem uma boa especialização no 2º Ano do mestrado em dispositivos quânticos e nanotecnologia.</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Avaliação 🧐</h3>
+        <ul>
+            <li>Testes</li>
+            <li>Trabalhos de casa</li>
+            <li>Provas orais</li>
+        </ul>
+    </div>
+</div>
 
--   Principalmente em Francês
--   Existem algumas do 2º Ano de Mestrado em Inglês
-
-### Fatores mais pessoais 🙍‍♂️
-
--   Qualidade do ensino é semelhante a em MEFT
--   Os professores são disponíveis e próximos
--   Os serviços académicos da universidade são aceitáveis
--   Há muitos lugares para estudar de excelente qualidade
--   A faculdade tem uma boa especialização no 2º Ano do mestrado em dispositivos quânticos e nanotecnologia.
-
-### Carga de trabalho ⏰
-
-Inferior a MEFT
-
-### Materiais 📚
-
--   Disponibilizados na plataforma online da universidade
--   Livros em bibliotecas
-
-### Avaliação 🧐
-
--   Testes,
--   Trabalhos de casa
--   Provas orais
-
-### Opções Extra 🏅
-
--   Atividades extra-curriculares
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Carga de trabalho ⏰</h3>
+        <p>Inferior a MEFT</p>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Opções Extra 🏅</h3>
+        <ul>
+            <li>Atividades extra-curriculares</li>
+        </ul>
+    </div>
+</div>
 
 ### Equivalências
 
-#### 1º Semestre
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h4>1º Semestre</h4>
+        <ul>
+            <li>Física do Estado Sólido;</li>
+            <li>Astrofísica;</li>
+            <li>Física Nuclear;</li>
+            <li>Física de Partículas;</li>
+            <li>Opções Livres.</li>
+        </ul>
+    </div>
+</div>
 
--   Física do Estado Sólido;
--   Astrofísica;
--   Física Nuclear;
--   Física de Partículas;
--   Opções Livres.
+---
 
 # Qualidade de Vida ❤️
 
-### Alojamento 🏡
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Alojamento 🏡</h3>
+        <ul>
+            <li>Muito difícil de arranjar (anúncios online)</li>
+            <li>Preços:
+                <ul>
+                    <li>quarto alugado : cerca de 600 EUR/mês</li>
+                    <li>residência de estudantes: ~700 EUR/mês</li>
+                    <li>é possível obter ~90 EUR de complemento ao alojamento</li>
+                </ul>
+            </li>
+            <li>O alojamento é de muito boa qualidade</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Transportes 🚌</h3>
+        <ul>
+            <li>Os transportes são bons,</li>
+            <li>ótima relação preço/qualidade</li>
+            <li>fácil arranjar transporte para fora da cidade/do país, a preços semelhantes aos Portugueses</li>
+        </ul>
+    </div>
+</div>
 
--   Muito difícil de arranjar (anúncios online)
--   Preços:
-    -   quarto alugado : cerca de 600 EUR/mês
-    -   residência de estudantes: ~700 EUR/mês
-        -   é possível obter ~90 EUR de complemento ao alojamento
--   O alojamento é de muito boa qualidade
+---
 
-### Transportes 🚌
-
--   Os transportes são bons,
--   ótima relação preço/qualidade
--   fácil arranjar transporte para fora da cidade/do país, a preços semelhantes aos Portugueses
+# Informação Extra ➕
 
 A bolsa que a aluna recebeu foi só para um semestre, e chegou dentro do previsto, mas não foi de todo suficiente para cobrir os custos da estadia.
 A cidade é bastante segura e os parisienses são hospitáveis!

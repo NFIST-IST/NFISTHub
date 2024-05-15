@@ -6,7 +6,7 @@ export default function TUEPage() {
         <>
             <Seo title="TU Eindhoven" useTitleTemplate={true} noIndex={true} />
             <Page>
-                <NormalSection sectionId="tu-eindhoven" heading="TU Eindhoven" />
+                <NormalSection sectionId="tu-eindhoven" heading="Technische Universiteit Eindhoven" />
             </Page>
         </>
     );

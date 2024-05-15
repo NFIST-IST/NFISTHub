@@ -2,6 +2,8 @@
 sectionId: tu-eindhoven
 ---
 
+---
+
 <img src="images/tu-eindhoven.jpg" alt="TU Eindhoven" class="rounded-image">
 
 ---

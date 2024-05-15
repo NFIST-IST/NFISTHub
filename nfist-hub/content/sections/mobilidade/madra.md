@@ -2,91 +2,111 @@
 sectionId: madra
 ---
 
-<img src="images/tum.webp" alt="TUM" class="rounded-image">
+<img src="images/madras.webp" alt="ITT Madra" class="rounded-image">
 
-# Conteúdos
-
--   [Conteúdos](#conteúdos)
--   [Ensino](#ensino)
-    -   [Aulas](#aulas)
-    -   [Materiais](#materiais)
-    -   [Fatores mais pessoais](#fatores-mais-pessoais)
-    -   [Carga de trabalho](#carga-de-trabalho)
-    -   [Dificuldade do Curso](#dificuldade-do-curso)
-    -   [Horário](#horário)
-    -   [Avaliação](#avaliação)
-    -   [Opções Extra](#opções-extra)
-    -   [Equivalências](#equivalências)
-        -   [1º Semestre](#1º-semestre)
--   [Qualidade de Vida](#qualidade-de-vida)
-    -   [Alojamento](#alojamento)
-    -   [Transportes](#transportes)
--   [Quotes](#quotes)
+---
 
 # Ensino
 
 Foco: <u>Engenharia</u>
 
-### Aulas
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Aulas 👩‍🏫</h3>
+        <ul>
+            <li>Em Inglês</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Materiais 📚</h3>
+        <ul>
+            <li>Livros em bibliotecas</li>
+        </ul>
+    </div>
+</div>
 
--   Em Inglês
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Fatores mais pessoais 🙍‍♂️</h3>
+        <ul>
+            <li>Qualidade de ensino boa</li>
+            <li>Qualidade dos serviços académicos intermédia</li>
+            <li>Há bastantes sítios para estudar.</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Carga de trabalho ⏰</h3>
+        <p>Baixa</p>
+    </div>
+</div>
 
-### Materiais
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Dificuldade do Curso 🪖</h3>
+        <p>Baixa</p>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Horário ⏰</h3>
+        <p>Feito pelo aluno</p>
+    </div>
+</div>
 
--   Livros em bibliotecas
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Avaliação 🧐</h3>
+        <ul>
+            <li>testes</li>
+            <li>apresentações</li>
+            <li>trabalhos</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Opções Extra 🏅</h3>
+        <ul>
+            <li>A universidade permite a prática de atividades extra-curriculares</li>
+        </ul>
+    </div>
+</div>
 
-### Fatores mais pessoais
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Equivalências</h3>
+        <h4>1º Semestre</h4>
+        <ul>
+            <li>Física de Partículas;</li>
+            <li>Nanotecnologias;</li>
+            <li>Complementos de Mecânica Quântica;</li>
+            <li>Ótica e Lasers;</li>
+            <li>Métodos de Caracterização em FES</li>
+        </ul>
+    </div>
+</div>
 
--   Qualidade de ensino boa
--   Qualidade dos serviços académicos intermédia
--   Há bastantes sítios para estudar.
+---
 
-### Carga de trabalho
+# Qualidade de Vida ❤️
 
-Baixa
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Alojamento 🏡</h3>
+        <ul>
+            <li>Fácil de arranjar na residência da universidade dentro do campus:</li>
+            <li>Custo 200€/semestre</li>
+            <li>Boa qualidade</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Transportes 🚌</h3>
+        <ul>
+            <li>Relação preço-qualidade muito boa</li>
+            <li>Muito baratos, dentro e para fora da cidade.</li>
+        </ul>
+    </div>
+</div>
 
-### Dificuldade do Curso
+---
 
-Baixa
-
-### Horário
-
--   Feito pelo aluno
-
-### Avaliação
-
--   testes
--   apresentações
--   trabalhos
-
-### Opções Extra
-
--   A universidade permite a prática de atividades extra-curriculares
-
-### Equivalências
-
-#### 1º Semestre
-
--   Física de Partículas;
--   Nanotecnologias;
--   Complementos de Mecânica Quântica;
--   Ótica e Lasers;
--   Métodos de Caracterização em FES
-
-# Qualidade de Vida
-
-### Alojamento
-
--   Fácil de arranjar na residência da universidade dentro do campus:
--   Custo 200€/semestre
--   Boa qualidade
-
-### Transportes
-
--   Relação preço-qualidade muito boa
--   Muito baratos, dentro e para fora da cidade.
-
-# Quotes
+# Quotes 🎙️
 
 ```
 É uma oportunidade muito boa para viajar e conhecer outras culturas, e ganhar mais

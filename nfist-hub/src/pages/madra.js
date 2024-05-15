@@ -6,7 +6,7 @@ export default function MadraPage() {
         <>
             <Seo title="ITT Madra" useTitleTemplate={true} noIndex={true} />
             <Page>
-                <NormalSection sectionId="madra" heading="ITT Madra" />
+                <NormalSection sectionId="madra" heading="Indian Institute of Technology Madras" />
             </Page>
         </>
     );

@@ -2,65 +2,72 @@
 sectionId: sorbonne
 ---
 
-<img src="images/tum.webp" alt="TUM" class="rounded-image">
+<img src="images/sorbonne.jpg" alt="Sorbonne" style="width:660px;margin:0;vertical-align:middle;position:absolute;top:0;left:0;border-radius:10px;">
 
-# Conteúdos
-
--   [Conteúdos](#conteúdos)
--   [Ensino](#ensino)
-    -   [Aulas 👩‍🏫](#aulas-)
-    -   [Materiais 📚](#materiais-)
-    -   [Fatores mais pessoais 🙍‍♂️](#fatores-mais-pessoais-️)
-    -   [Carga de trabalho ⏰](#carga-de-trabalho-)
-    -   [Dificuldade do Curso 🪖](#dificuldade-do-curso-)
-    -   [Horário ⏰](#horário-)
-    -   [Avaliação 🧐](#avaliação-)
-    -   [Equivalências](#equivalências)
-        -   [1º Semestre](#1º-semestre)
--   [Qualidade de Vida ❤️](#qualidade-de-vida-️)
-    -   [Alojamento 🏡](#alojamento-)
-    -   [Transportes 🚌](#transportes-)
--   [Quotes 🎙️](#quotes-️)
+---
 
 # Ensino
 
-Foco: Física, em particular Física Quântica, de Partículas, Nuclear e Astrofísica
+<u>Foco:</u> Física, em particular Física Quântica, de Partículas, Nuclear e Astrofísica
 
-### Aulas 👩‍🏫
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Aulas 👩‍🏫</h3>
+        <ul>
+            <li>Em Inglês</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Materiais 📚</h3>
+        <ul>
+            <li>Os manuais/notas dos professores são bastante bons.</li>
+        </ul>
+    </div>
+</div>
 
--   Em Inglês
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Fatores mais pessoais 🙍‍♂️</h3>
+        <ul>
+            <li>Bibliotecas têm todos os livros necessários</li>
+        </ul>
+    </div>
+</div>
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Carga de trabalho ⏰</h3>
+        <p>Inferior a MEFT</p>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Dificuldade do Curso 🪖</h3>
+        <p>Inferior a MEFT</p>
+    </div>
+</div>
 
-### Materiais 📚
-
--   Os manuais/notas dos professores são bastante bons.
-
-### Fatores mais pessoais 🙍‍♂️
-
--   Bibliotecas têm todos os livros necessário
-
-### Carga de trabalho ⏰
-
-Inferior a MEFT
-
-### Dificuldade do Curso 🪖
-
-Inferior a MEFT
-
-### Horário ⏰
-
--   Consoante as cadeiras escolhidas
--   Sobreposições podem ocorrer
--   Carga horária baixa
--   Aulas sobretudo de manhã
-
-### Avaliação 🧐
-
--   Avaliação é só por exames (sem alternativas)
--   Com uma única fase
--   Numa semana com exames todos os dias
--   Esta única hipótese:
-    -   dificulta imenso
-    -   protege pouco os alunos.
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Horário ⏰</h3>
+        <ul>
+            <li>Consoante as cadeiras escolhidas</li>
+            <li>Sobreposições podem ocorrer</li>
+            <li>Carga horária baixa</li>
+            <li>Aulas sobretudo de manhã</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Avaliação 🧐</h3>
+        <ul>
+            <li>Avaliação é só por exames (sem alternativas)</li>
+            <li>Com uma única fase</li>
+            <li>Numa semana com exames todos os dias</li>
+        </ul>
+        <p>Esta única hipótese:</p>
+        <ul>
+            <li>dificulta imenso</li>
+            <li>protege pouco os alunos</li>
+        </ul>
+    </div>
+</div>
 
 ### Equivalências
 
@@ -73,27 +80,42 @@ Inferior a MEFT
 -   Física de Partículas;
 -   Astrofísica.
 
+---
+
 # Qualidade de Vida ❤️
 
-### Alojamento 🏡
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Alojamento 🏡</h3>
+        <ul>
+            <li>Bastante difícil de arranjar</li>
+            <li>Melhor opção: conseguir ficar na Cité Université, (necessária candidatura imediata).</li>
+            <li>Na residência universitária os quartos custam 350-500 € (é mais difícil arranjar sem partilhar quarto, que são mais em conta)</li>
+            <li>Alojamento na residência universitária é bastante bom</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Transportes 🚌</h3>
+        <ul>
+            <li>Há muitos meios de transporte</li>
+            <li>Impecáveis e baratos</li>
+            <li>Bastantes descontos para estudantes em Paris</li>
+        </ul>
+    </div>
+</div>
 
--   Bastante difícil de arranjar
--   Melhor opção: conseguir ficar na Cité Université, (necessária candidatura imediata).
--   Na residência universitária os quartos custam 350-500 € (é mais difícil arranjar sem partilhar quarto, que são mais em conta)
--   Alojamento na residência universitária é bastante bom
-
-### Transportes 🚌
-
--   Há muitos meios de transporte
--   Impecáveis e baratos
--   Bastantes descontos para estudantes em Paris
-
-Os produtos básicos são de boa qualidade e fáceis de arranjar
-
-Em geral, as pessoas são pouco hospitaleiras e simpáticas.
+---
 
 # Quotes 🎙️
 
 ```
 Estudar fora deu-me uma nova perspetiva.
 ```
+
+---
+
+# Informações Extra ➕
+
+Os produtos básicos são de boa qualidade e fáceis de arranjar
+
+Em geral, as pessoas são pouco hospitaleiras e simpáticas.

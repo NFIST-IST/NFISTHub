@@ -6,7 +6,7 @@ export default function SorbonnePage() {
         <>
             <Seo title="Sorbonne" useTitleTemplate={true} noIndex={true} />
             <Page>
-                <NormalSection sectionId="sorbonne" heading="Sorbonne" />
+                <NormalSection sectionId="sorbonne" heading="Sorbonne Université (Université Pierre et Marie Curie)" />
             </Page>
         </>
     );

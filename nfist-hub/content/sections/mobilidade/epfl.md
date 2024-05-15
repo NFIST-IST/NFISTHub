@@ -2,97 +2,119 @@
 sectionId: epfl
 ---
 
-<img src="images/tum.webp" alt="TUM" class="rounded-image">
+<img src="images/epfl.jpg" alt="EPFL" class="rounded-image">
 
-# Conteúdos
+---
 
--   [Conteúdos](#conteúdos)
--   [Ensino](#ensino)
-    -   [Aulas](#aulas)
-    -   [Materiais](#materiais)
-    -   [Fatores mais pessoais](#fatores-mais-pessoais)
-    -   [Carga de trabalho](#carga-de-trabalho)
-    -   [Dificuldade do Curso](#dificuldade-do-curso)
-    -   [Horário](#horário)
-    -   [Avaliação](#avaliação)
-    -   [Equivalências](#equivalências)
-        -   [1º Semestre](#1º-semestre)
--   [Qualidade de Vida](#qualidade-de-vida)
-    -   [Alojamento](#alojamento)
-    -   [Transportes](#transportes)
--   [Quotes](#quotes)
+# Ensino 📚
 
-# Ensino
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Aulas 👩‍🏫</h3>
+        <ul>
+            <li>Em Inglês</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Materiais 📚</h3>
+        <ul>
+            <li>Moodle com todo o material disponibilizado</li>
+        </ul>
+    </div>
+</div>
 
-### Aulas
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Fatores mais pessoais 🙍‍♂️</h3>
+        <ul>
+            <li>Salas de estudo para cada curso com boas condições</li>
+            <li>As cadeiras dão bastante trabalho, tendo em conta os créditos que valem</li>
+            <li>Ensino bastante bom</li>
+            <li>Os professores são muito próximos para responder a qualquer dúvida, ou questão.</li>
+            <li>Existe também a possibilidade de se fazer cadeiras mais transversais e interdisciplinares na UNIL, que valem mais créditos</li>
+            <li>Os serviços administrativos são muito bons.</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Carga de trabalho ⏰</h3>
+        <p>Leve</p>
+        <h3>Dificuldade do Curso 🪖</h3>
+        <p>Elevada</p>
+    </div>
+</div>
 
--   Em Inglês
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Horário ⏰</h3>
+        <ul>
+            <li>Escolhido pelo aluno</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Avaliação 🧐</h3>
+        <ul>
+            <li>Difere de cadeira para cadeira</li>
+            <li>Pode ser através de:</li>
+            <ul>
+                <li>Exame escrito</li>
+                <li>Prova oral</li>
+                <li>Avaliação contínua,</li>
+                <li>(...)</li>
+            </ul>
+            <li>Cada pessoa escolhe o que quer, sendo aconselhado ter de todas, para não acumular as avaliações todas na mesma altura.</li>
+        </ul>
+    </div>
+</div>
 
-### Materiais
+### Equivalências 📜
 
--   Moodle com todo o material disponibilizado
-
-### Fatores mais pessoais
-
--   Salas de estudo para cada curso com boas condições
--   As cadeiras dão bastante trabalho, tendo em conta os créditos que valem
--   Ensino bastante bom
--   Os professores são muito próximos para responder a qualquer dúvida, ou questão.
--   Existe também a possibilidade de se fazer cadeiras mais transversais e interdisciplinares na UNIL, que valem mais créditos
--   Os serviços administrativos são muito bons.
-
-### Carga de trabalho
-
-Leve
-
-### Dificuldade do Curso
-
-Elevador
-
-### Horário
-
--   Escolhido pelo aluno
-
-### Avaliação
-
--   Difere de cadeira para cadeira
--   Pode ser através de:
-    -   Exame escrito
-    -   Prova oral
-    -   Avaliação contínua,
-    -   (...)
--   Cada pessoa escolhe o que quer, sendo aconselhado ter de todas, para não acumular as avaliações todas na mesma altura.
-
-### Equivalências
-
-#### 1º Semestre
+#### 1º Semestre ❄️
 
 -   Técnicas de Micro e Nanofabricação;
 -   Tecnologia Nuclear e de Física de Partículas;
 -   Opcionais livres.
 
-# Qualidade de Vida
+---
 
-### Alojamento
+# Qualidade de Vida ❤️
 
--   Razoavelmente boas
--   Por volta dos 800-900€/mês
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Alojamento 🏡</h3>
+        <ul>
+            <li>Razoavelmente boas</li>
+            <li>Por volta dos 800-900€/mês</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Transportes 🚌</h3>
+        <ul>
+            <li>Dentro da cidade:</li>
+            <ul>
+                <li>Aceitáveis</li>
+                <li>Não muito caros</li>
+            </ul>
+            <li>Fora da cidade:</li>
+            <ul>
+                <li>Boa relação qualidade/preço.</li>
+            </ul>
+        </ul>
+    </div>
+</div>
 
-### Transportes
+---
 
--   dentro da cidade:
-    -   aceitáveis
-    -   não muito caros
--   fora da cidade:
-    -   boa relação qualidade/preço.
-
-Os alunos que frequentaram esta faculdade tiveram bolsa de estudo, mas disseram que esta não chegou para as despesas necessárias.
-A cidade é bastante segura!
-
-# Quotes
+# Quotes 🎙️
 
 ```
 Abre a mentalidade, aprende-se a viver sozinho e a vivenciar diferentes formas de
 ver o mundo. Novas culturas, novos amigos, novas histórias. Aprende-se o que é vida
 e física além do tecnico.
 ```
+
+---
+
+# Informação Extra ➕
+
+Os alunos que frequentaram esta faculdade tiveram bolsa de estudo, mas disseram que esta não chegou para as despesas necessárias.
+A cidade é bastante segura!

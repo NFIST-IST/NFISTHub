@@ -6,7 +6,7 @@ export default function EPFLPage() {
         <>
             <Seo title="EPFL" useTitleTemplate={true} noIndex={true} />
             <Page>
-                <NormalSection sectionId="epfl" heading="EPFL" />
+                <NormalSection sectionId="epfl" heading="École Polytechnique Fédérale de Lausanne (EPFL)" />
             </Page>
         </>
     );

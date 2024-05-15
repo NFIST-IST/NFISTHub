@@ -74,20 +74,34 @@ do coração!!!!
 
 ## Galeria de Imagens 📸
 
-<img src="../../images/eva/eva-22/p1.png">
-<img src="../../images/eva/eva-22/p2.jpeg">
-<img src="../../images/eva/eva-22/rt.png">
+<div style="display: flex;">
+    <div style="flex-basis: 48%;  margin-right: 2%;">
+        <img src="../../images/eva/eva-22/p1.png">
+    </div>
+    <div style="flex-basis: 48%;  margin-right: 2%;">
+        <img src="../../images/eva/eva-22/p2.jpeg">
+    </div>
+    <div style="flex-basis: 48%;  margin-right: 2%;">
+        <img src="../../images/eva/eva-22/rt.png">
+    </div>
+</div>
 
 ---
 
 ## Os Nossos Oradores 🎤
 
-<img src="../../images/eva/eva-22/o4.jpg">
-<img src="../../images/eva/eva-22/o8.jpg">
-<img src="../../images/eva/eva-22/o9.png">
-<img src="../../images/eva/eva-22/o3.jpg">
-<img src="../../images/eva/eva-22/o1.png">
-<img src="../../images/eva/eva-22/o6.png">
-<img src="../../images/eva/eva-22/o7.jpg">
-<img src="../../images/eva/eva-22/o2.jpg">
-<img src="../../images/eva/eva-22/o5.jpg">
+<div style="display: flex;">
+    <div style="flex-basis: 48%;  margin-right: 2%;">
+        <img src="../../images/eva/eva-22/o4.jpg">
+        <img src="../../images/eva/eva-22/o8.jpg">
+        <img src="../../images/eva/eva-22/o9.png">
+        <img src="../../images/eva/eva-22/o3.jpg">
+        <img src="../../images/eva/eva-22/o1.png">
+    </div>
+    <div style="flex-basis: 48%;  margin-right: 2%;">
+        <img src="../../images/eva/eva-22/o6.png">
+        <img src="../../images/eva/eva-22/o7.jpg">
+        <img src="../../images/eva/eva-22/o2.jpg">
+        <img src="../../images/eva/eva-22/o5.jpg">
+    </div>
+</div>

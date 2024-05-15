@@ -2,116 +2,142 @@
 sectionId: tum
 ---
 
-<img src="images/tum.webp" alt="TUM" class="rounded-image">
+---
 
-# Conteúdos
+<img src="images/tum.jpg" alt="TUM" style="width:660px;margin:0;vertical-align:middle;position:absolute;top:0;left:0;border-radius:1rem;">
 
--   [Conteúdos](#conteúdos)
--   [Ensino](#ensino)
-    -   [Aulas 👩‍🏫](#aulas-)
-    -   [Materiais 📚](#materiais-)
-    -   [Fatores mais pessoais 🙍‍♂️](#fatores-mais-pessoais-️)
-    -   [Carga de trabalho ⏰](#carga-de-trabalho-)
-    -   [Dificuldade do Curso 🪖](#dificuldade-do-curso-)
-    -   [Horário ⏰](#horário-)
-    -   [Avaliação 🧐](#avaliação-)
-    -   [Opções Extra 🏅](#opções-extra-)
-    -   [Equivalências](#equivalências)
-        -   [1º Semestre](#1º-semestre)
-        -   [2º Semestre](#2º-semestre)
--   [Qualidade de Vida ❤️](#qualidade-de-vida-️)
-    -   [Alojamento 🏡](#alojamento-)
-    -   [Transportes 🚌](#transportes-)
-        -   [Dentro da cidade](#dentro-da-cidade)
-        -   [Para fora da cidade](#para-fora-da-cidade)
--   [Quotes 🎙️](#quotes-️)
--   [Informação Extra ➕](#informação-extra-)
+---
 
-# Ensino
+# Ensino 📚
 
-Foco: <u>Física e Engenharia Física</u>
+<u>Foco:</u> Física e Engenharia Física
 
-### Aulas 👩‍🏫
+<!-- Aulas Section -->
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Aulas 👩‍🏫</h3>
+        <ul>
+            <li>Principalmente em Inglês</li>
+            <li>Algumas cadeiras em Alemão</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Materiais 📚</h3>
+        <ul>
+            <li>Disponibilizados na plataforma online da universidade</li>
+            <li>Livros em bibliotecas</li>
+        </ul>
+    </div>
+</div>
 
--   Principalmente em Inglês
--   Algumas cadeiras em Alemão
+<!-- Fatores mais pessoais Section -->
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Fatores mais pessoais 🙍‍♂️</h3>
+        <ul>
+            <li>Qualidade de ensino boa</li>
+            <li>Proximidade entre os docentes e os alunos</li>
+            <li>Ótima qualidade serviços académicos</li>
+            <li>Ótima disponibilidade de sitios para estudar</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Carga de trabalho ⏰</h3>
+        <p>Média</p>
+        <h3>Dificuldade do Curso 🪖</h3>
+        <p>Média</p>
+    </div>
+</div>
 
-### Materiais 📚
+<!-- Horário Section -->
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Horário ⏰</h3>
+        <ul>
+            <li>Consoante as cadeiras escolhidas</li>
+            <li>Sobreposições podem ocorrer</li>
+            <li>Carga horária baixa</li>
+            <li>Aulas sobretudo de manhã</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Avaliação 🧐</h3>
+        <ul>
+            <li>testes</li>
+            <li>exames</li>
+            <li>provas orais</li>
+        </ul>
+    </div>
+</div>
 
--   Disponibilizados na plataforma online da universidade
--   Livros em bibliotecas
+<!-- Opções Extra Section -->
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Opções Extra 🏅</h3>
+        <ul>
+            <li>Atividades extra-curriculares:</li>
+            <ul>
+                <li>cursos de línguas</li>
+                <li>desportos</li>
+                <li>(...)</li>
+            </ul>
+        </ul>
+    </div>
+</div>
 
-### Fatores mais pessoais 🙍‍♂️
+#### Equivalências
 
--   Qualidade de ensino boa
--   Proximidade entre os docentes e os alunos
--   Ótima qualidade serviços académicos
--   Ótima disponibilidade de sitios para estudar
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h4>1º Semestre</h4>
+        <ul>
+            <li>Astrofísica;</li>
+            <li>Nanotecnologias e Nanoeletrónica;</li>
+            <li>Física e Tecnologia de Plasmas;</li>
+            <li>Instrumentação;</li>
+            <li>Opcionais Livres.</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h4>2º Semestre</h4>
+        <ul>
+            <li>Introdução à Investigação;</li>
+            <li>Tecnologias Energéticas;</li>
+            <li>Tecnologia Nuclear e de Física de Partículas;</li>
+            <li>Ótica e Lasers;</li>
+            <li>Astrofísica;</li>
+            <li>Opcionais Livres.</li>
+        </ul>
+    </div>
+</div>
 
-### Carga de trabalho ⏰
-
-Média
-
-### Dificuldade do Curso 🪖
-
-Média
-
-### Horário ⏰
-
--   Consoante as cadeiras escolhidas
--   Sobreposições podem ocorrer
--   Carga horária baixa
--   Aulas sobretudo de manhã
-
-### Avaliação 🧐
-
--   testes
--   exames
--   provas orais
-
-### Opções Extra 🏅
-
--   Atividades extra-curriculares:
-    -   cursos de línguas
-    -   desportos
-    -   (...)
-
-### Equivalências
-
-#### 1º Semestre
-
--   Astrofísica;
--   Nanotecnologias e Nanoeletrónica;
--   Física e Tecnologia de Plasmas;
--   Instrumentação;
--   Opcionais Livres.
-
-#### 2º Semestre
-
--   Introdução à Investigação;
--   Tecnologias Energéticas;
--   Tecnologia Nuclear e de Física de Partículas;
--   Ótica e Lasers;
--   Astrofísica;
--   Opcionais Livres.
+---
 
 # Qualidade de Vida ❤️
 
-### Alojamento 🏡
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Alojamento 🏡</h3>
+        <ul>
+            <li>Boas e por volta de 400-450€</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Transportes 🚌</h3>
+        <h4>Dentro da cidade</h4>
+        <ul>
+            <li>Aceitáveis</li>
+            <li>Não muito caros</li>
+        </ul>
+        <h4>Para fora da cidade</h4>
+        <ul>
+            <li>Pouco frequentes</li>
+            <li>Boa relação qualidade/preço</li>
+        </ul>
+    </div>
+</div>
 
--   Boas e por volta de 400-450€
-
-### Transportes 🚌
-
-#### Dentro da cidade
-
--   Aceitáveis
--   Não muito caros
-
-#### Para fora da cidade
-
--   Pouco frequentes
--   Boa relação qualidade/preço
+---
 
 # Quotes 🎙️
 
@@ -119,6 +145,8 @@ Média
 Recomendo vivamente a cidade de Munique como escolha para fazer
 Erasmus, e em particular a TUM
 ```
+
+---
 
 # Informação Extra ➕
 

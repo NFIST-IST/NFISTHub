@@ -6,7 +6,7 @@ export default function MILPage() {
         <>
             <Seo title="Milano" useTitleTemplate={true} noIndex={true} />
             <Page>
-                <NormalSection sectionId="milano" heading="Milano" />
+                <NormalSection sectionId="milano" heading="Università degli Studi di Milano" />
             </Page>
         </>
     );

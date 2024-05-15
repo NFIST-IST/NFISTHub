@@ -2,63 +2,67 @@
 sectionId: padova
 ---
 
-<img src="images/tum.webp" alt="TUM" class="rounded-image">
+<img src="images/padova.jpg" alt="Padova" class="rounded-image">
 
-# Conteúdos
+---
 
--   [Conteúdos](#conteúdos)
--   [Ensino](#ensino)
-    -   [Aulas](#aulas)
-    -   [Materiais](#materiais)
-    -   [Fatores mais pessoais](#fatores-mais-pessoais)
-    -   [Carga de trabalho](#carga-de-trabalho)
-    -   [Dificuldade do Curso](#dificuldade-do-curso)
-    -   [Horário](#horário)
-    -   [Avaliação](#avaliação)
-    -   [Opções Extra](#opções-extra)
-    -   [Equivalências](#equivalências)
-        -   [2º Semestre](#2º-semestre)
--   [Qualidade de Vida](#qualidade-de-vida)
-    -   [Alojamento](#alojamento)
-    -   [Transportes](#transportes)
--   [Quotes](#quotes)
+# Ensino 📚
 
-# Ensino
+<u>Foco:</u> Física das altas energias
 
-Foco: Física das altas energias
+<div style="display: flex;">
+        <div style="flex-basis: 48%;">
+            <h3>Aulas 👩‍🏫</h3>
+            <ul>
+                <li>Em Inglês</li>
+            </ul>
+        </div>
+        <div style="flex-basis: 48%;">
+            <h3>Materiais 🛠️</h3>
+            <ul>
+                <li>Disponibilizados na plataforma online da universidade</li>
+                <li>Livros em bibliotecas</li>
+            </ul>
+        </div>
+</div>
 
-### Aulas
+<div style="display: flex;">
+        <div style="flex-basis: 48%;">
+            <h3>Fatores mais pessoais 🙍‍♂️</h3>
+            <ul>
+                <li>O ensino é bom</li>
+                <li>Os professores mostram-se muito disponíveis e prontos para ajudar.</li>
+            </ul>
+        </div>
+</div>
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Carga de trabalho 😮‍💨</h3>
+        <p>Baixa</p>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Dificuldade do Curso 🪖</h3>
+        <p>Média</p>
+    </div>
+</div>
 
--   Em Inglês
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Horário ⏰</h3>
+        <ul>
+            <li>Consoante as cadeiras escolhidas</li>
+            <li>Sobreposições podem ocorrer</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Avaliação 📝</h3>
+        <ul>
+            <li>provas orais</li>
+        </ul>
+    </div>
+</div>
 
-### Materiais
-
--   Disponibilizados na plataforma online da universidade
--   Livros em bibliotecas
-
-### Fatores mais pessoais
-
--   O ensino é bom
--   Os professores mostram-se muito disponíveis e prontos para ajudar.
-
-### Carga de trabalho
-
-Baixa
-
-### Dificuldade do Curso
-
-Média
-
-### Horário
-
--   Consoante as cadeiras escolhidas
--   Sobreposições podem ocorrer
-
-### Avaliação
-
--   provas orais
-
-### Opções Extra
+### Opções Extra 🏅
 
 -   Como a carga de trabalho não é muito exigente, permite que se tenha tempo para atividades extra curriculares.
 
@@ -71,25 +75,31 @@ Média
 -   Física da Matéria Condensada;
 -   Opções Livres.
 
-# Qualidade de Vida
+---
 
-### Alojamento
+# Qualidade de Vida ❤️
 
--   Fácil de arranjar
--   Preço quarto alugado num apartamento: 400-450€/mês.
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Alojamento 🏡</h3>
+        <ul>
+            <li>Fácil de arranjar</li>
+            <li>Preço quarto alugado num apartamento: 400-450€/mês.</li>
+            <li><u>Sugestão:</u> contacto com estudantes que já tenham ido, de modo a facilitar ainda mais todo o processo.</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Transportes 🚌</h3>
+        <ul>
+            <li>Um pouco mais caros que em Lisboa</li>
+            <li>Toda a gente anda de bicicleta</li>
+        </ul>
+    </div>
+</div>
 
-<u>Sugestão:</u> contacto com estudantes que já tenham ido, de modo a facilitar ainda mais todo o processo.
+---
 
-### Transportes
-
--   Um pouco mais caros que em Lisboa
--   Toda a gente anda de bicicleta
-
-A bolsa que a aluna recebeu foi só para um semestre, e chegou dentro do previsto, mas não foi de todo suficiente para cobrir os custos da estadia.
-
-A cidade é segura e as pessoas são simpáticas!
-
-# Quotes
+# Quotes 🎙️
 
 ```
 É importante ter uma experiência destas para nos dar um pouco de perspectiva em
@@ -100,3 +110,11 @@ relação à nossa vida.
 Tentem escolher um sítio que mais se adequa ao rumo profissional que querem para
 vocês.
 ```
+
+---
+
+# Informações Extra ➕
+
+A bolsa que a aluna recebeu foi só para um semestre, e chegou dentro do previsto, mas não foi de todo suficiente para cobrir os custos da estadia.
+
+A cidade é segura e as pessoas são simpáticas!

@@ -6,7 +6,7 @@ export default function PadovaPage() {
         <>
             <Seo title="Padova" useTitleTemplate={true} noIndex={true} />
             <Page>
-                <NormalSection sectionId="padova" heading="Padova" />
+                <NormalSection sectionId="padova" heading="Università degli Studi di Padova" />
             </Page>
         </>
     );

@@ -10,5 +10,6 @@ export { LegalSection } from './src/sections/Legal';
 export { NormalSection } from './src/sections/NormalPage';
 export { ResumosSection } from './src/sections/Resumos';
 export { MobilidadeSection } from './src/sections/Mobilidade';
+export { EventosSection } from './src/sections/Eventos';
 export { Section } from './src/components/Section';
 export { Animation } from './src/components/Animation';

@@ -6,7 +6,7 @@ export default function TUEPage() {
         <>
             <Seo title="UniRio" useTitleTemplate={true} noIndex={true} />
             <Page>
-                <NormalSection sectionId="rio" heading="UniRio" />
+                <NormalSection sectionId="rio" heading="Universidade Federal do Rio de Janeiro" />
             </Page>
         </>
     );

@@ -6,7 +6,7 @@ export default function UTwentePage() {
         <>
             <Seo title="UTwente" useTitleTemplate={true} noIndex={true} />
             <Page>
-                <NormalSection sectionId="utwente" heading="UTwente" />
+                <NormalSection sectionId="utwente" heading="University of Twente" />
             </Page>
         </>
     );

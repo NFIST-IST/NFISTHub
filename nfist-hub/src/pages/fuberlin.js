@@ -6,7 +6,7 @@ export default function FUPage() {
         <>
             <Seo title="FU" useTitleTemplate={true} noIndex={true} />
             <Page>
-                <NormalSection sectionId="fuberlin" heading="FU Berlin" />
+                <NormalSection sectionId="fuberlin" heading="Freie Universtät von Berlin" />
             </Page>
         </>
     );

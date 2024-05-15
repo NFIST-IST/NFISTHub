@@ -24,34 +24,52 @@ Com Palestras, Workshops, “Meet the Centres!”, um dia dedicado a conhecer e 
 
 ---
 
-# Horário
+# Horário ⏰
 
 <img src="../../images/jef/jef7/image-51.png">
 
 ---
 
-# Palestras
+# Palestras 🎤
 
-<img src="../../images/jef/jef7/image-52.png">
-<img src="../../images/jef/jef7/image-53.png">
-<img src="../../images/jef/jef7/image-54.png">
-<img src="../../images/jef/jef7/image-55.png">
-<img src="../../images/jef/jef7/image-56.png">
-<img src="../../images/jef/jef7/image-57.png">
+<div style="display: flex;">
+    <div style="flex-basis: 48%;  margin-right: 2%;">
+        <img src="../../images/jef/jef7/image-52.png">
+        <img src="../../images/jef/jef7/image-53.png">
+        <img src="../../images/jef/jef7/image-54.png">
+    </div>
+    <div style="flex-basis: 48%;  margin-right: 2%;">
+        <img src="../../images/jef/jef7/image-55.png">
+        <img src="../../images/jef/jef7/image-56.png">
+        <img src="../../images/jef/jef7/image-57.png">
+    </div>
+</div>
 
 ---
 
-# Empresas e Workshops
+# Empresas e Workshops 🏢
 
-<img src="../../images/jef/jef7/image-58.png">
-<img src="../../images/jef/jef7/image-59.png">
+<div style="display: flex;">
+    <div style="flex-basis: 48%;  margin-right: 2%;">
+        <img src="../../images/jef/jef7/image-58.png">
+    </div>
+    <div style="flex-basis: 48%;  margin-right: 2%;">
+        <img src="../../images/jef/jef7/image-59.png">
+    </div>
+</div>
 
 ---
 
-# Outras Atividades
+# Outras Atividades 🎉
 
-<img src="../../images/jef/jef7/image-60.png">
-<img src="../../images/jef/jef7/image-61.png">
-<img src="../../images/jef/jef7/image-62.png">
-<img src="../../images/jef/jef7/image-63.png">
-<img src="../../images/jef/jef7/image-64.png">
+<div style="display: flex;">
+    <div style="flex-basis: 48%;  margin-right: 2%;">
+        <img src="../../images/jef/jef7/image-60.png">
+        <img src="../../images/jef/jef7/image-61.png">
+        <img src="../../images/jef/jef7/image-62.png">
+    </div>
+    <div style="flex-basis: 48%;  margin-right: 2%;">
+        <img src="../../images/jef/jef7/image-63.png">
+        <img src="../../images/jef/jef7/image-64.png">
+    </div>
+</div>

@@ -28,11 +28,11 @@ sectionId: ntnu
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
         <h3>Carga de trabalho 😮‍💨</h3>
-        <p>Inferior a MEFT</p>
+        <li>Inferior a MEFT</li>
     </div>
     <div style="flex-basis: 48%;">
         <h3>Dificuldade do Curso 🪖</h3>
-        <p>Inferior a MEFT</p>
+        <li>Inferior a MEFT</li>
     </div>
 </div>
 

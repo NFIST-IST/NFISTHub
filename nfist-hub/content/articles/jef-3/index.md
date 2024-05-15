@@ -24,38 +24,56 @@ Com Palestras, Concurso de Posters, Debate, Inside Views e muito mais!
 
 ![Image](../../images/jef/jef3/lecture.jpg)
 
-## Horário
+## Horário ⏰
 
 ![Horário](../../images/jef/jef3/image-3.png)
 
 ---
 
-## Palestras
+## Palestras 🎤
 
-<img src="../../images/jef/jef3/p1.png" alt="Image 1">
-<img src="../../images/jef/jef3/p2.png" alt="Image 2">
-<img src="../../images/jef/jef3/p3.png" alt="Image 1">
-<img src="../../images/jef/jef3/p4.png" alt="Image 1">
-<img src="../../images/jef/jef3/p5.png" alt="Image 1">
-<img src="../../images/jef/jef3/p6.png" alt="Image 1" objectFit='none'>
-
----
-
-## Alumni Talks
-
-<img src="../../images/jef/jef3/image-4.png" alt="Image 1">
-<img src="../../images/jef/jef3/image-5.png" alt="Image 1">
-<img src="../../images/jef/jef3/image-6.png" alt="Image 1">
-<img src="../../images/jef/jef3/image-7.png" alt="Image 1">
-<img src="../../images/jef/jef3/image-8.png" alt="Image 1">
-<img src="../../images/jef/jef3/image-9.png" alt="Image 1">
+<div style="display: flex;">
+    <div style="flex-basis: 48%;  margin-right: 2%;">
+        <img src="../../images/jef/jef3/p1.png">
+        <img src="../../images/jef/jef3/p2.png">
+        <img src="../../images/jef/jef3/p3.png">
+    </div>
+    <div style="flex-basis: 48%;">
+        <img src="../../images/jef/jef3/p4.png">
+        <img src="../../images/jef/jef3/p5.png">
+        <img src="../../images/jef/jef3/p6.png">
+    </div>
+</div>
 
 ---
 
-## Outras Atividades
+## Alumni Talks 👴
 
-<img src="../../images/jef/jef3/image-10.png" alt="Image 1">
-<img src="../../images/jef/jef3/image-11.png" alt="Image 1">
-<img src="../../images/jef/jef3/image-12.png" alt="Image 1">
-<img src="../../images/jef/jef3/image-13.png" alt="Image 1">
-<img src="../../images/jef/jef3/ALL.png" alt="Image 1">
+<div style="display: flex;">
+    <div style="flex-basis: 48%;  margin-right: 2%;">
+        <img src="../../images/jef/jef3/image-4.png">
+        <img src="../../images/jef/jef3/image-5.png">
+        <img src="../../images/jef/jef3/image-6.png">
+    </div>
+    <div style="flex-basis: 48%;">
+        <img src="../../images/jef/jef3/image-7.png">
+        <img src="../../images/jef/jef3/image-8.png">
+        <img src="../../images/jef/jef3/image-9.png">
+    </div>
+</div>
+
+---
+
+## Outras Atividades 🎉
+
+<div style="display: flex;">
+    <div style="flex-basis: 48%;  margin-right: 2%;">
+        <img src="../../images/jef/jef3/image-10.png">
+        <img src="../../images/jef/jef3/image-11.png">
+        <img src="../../images/jef/jef3/image-12.png">
+    </div>
+    <div style="flex-basis: 48%;">
+        <img src="../../images/jef/jef3/image-13.png">
+        <img src="../../images/jef/jef3/ALL.png">
+    </div>
+</div>

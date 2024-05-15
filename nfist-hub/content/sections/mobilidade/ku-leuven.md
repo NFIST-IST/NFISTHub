@@ -2,56 +2,56 @@
 sectionId: ku-leuven
 ---
 
-<img src="images/tum.webp" alt="KU Leuven" class="rounded-image">
+<img src="images/ku-leuven.jpg" alt="KU Leuven" class="rounded-image">
 
-# Conteúdos
+---
 
--   [Conteúdos](#conteúdos)
--   [Ensino](#ensino)
-    -   [Aulas 👩‍🏫](#aulas-)
-    -   [Materiais 📚](#materiais-)
-    -   [Fatores mais pessoais 🙍‍♂️](#fatores-mais-pessoais-️)
-    -   [Carga de trabalho ⏰](#carga-de-trabalho-)
-    -   [Dificuldade do Curso 🪖](#dificuldade-do-curso-)
-    -   [Horário ⏰](#horário-)
-    -   [Avaliação 🧐](#avaliação-)
-    -   [Equivalências](#equivalências)
-        -   [1º Semestre](#1º-semestre)
--   [Qualidade de Vida ❤️](#qualidade-de-vida-️)
-    -   [Alojamento 🏡](#alojamento-)
-        -   [Opções Alojamento sugeridas pela universidade:](#opções-alojamento-sugeridas-pela-universidade)
-    -   [Transportes 🚌](#transportes-)
--   [Quotes 🎙️](#quotes-️)
+# Ensino 📚
 
-# Ensino
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Aulas 👩‍🏫</h3>
+        <ul>
+            <li>Inglês</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Materiais 📚</h3>
+        <ul>
+            <li>Estudar a partir dos apontamentos das aulas é suficiente</li>
+        </ul>
+    </div>
+</div>
 
-### Aulas 👩‍🏫
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Fatores mais pessoais 🙍‍♂️</h3>
+        <ul>
+            <li>Qualidade de ensino média/boa</li>
+            <li>Professores disponíveis e prontos para ajudar</li>
+            <li>Ótima qualidade serviços académicos</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Carga de trabalho ⏰</h3>
+        <p>Mais que em MEFT</p>
+    </div>
+</div>
 
--   Inglês
-
-### Materiais 📚
-
--   Estudar a partir dos apontamentos das aulas é suficiente
-
-### Fatores mais pessoais 🙍‍♂️
-
--   Qualidade de ensino média/boa
--   Professores disponíveis e prontos para ajudar
--   Ótima qualidade serviços académicos
-
-### Carga de trabalho ⏰
-
-Mais que em MEFT
-
-### Dificuldade do Curso 🪖
-
-Média
-
-### Horário ⏰
-
--   Só de manhã
--   Carga horária baixa
--   Opções de horários para cadeiras muito limitadas
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Dificuldade do Curso 🪖</h3>
+        <p>Média</p>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Horário ⏰</h3>
+        <ul>
+            <li>Só de manhã</li>
+            <li>Carga horária baixa</li>
+            <li>Opções de horários para cadeiras muito limitadas</li>
+        </ul>
+    </div>
+</div>
 
 ### Avaliação 🧐
 
@@ -60,7 +60,7 @@ Média
 -   Método contínuo
 -   Entregar fichas semanalmente ou bisemanalmente
 
-### Equivalências
+### Equivalências 📜
 
 #### 1º Semestre
 
@@ -70,21 +70,30 @@ Média
 -   Astrofísica;
 -   Nanotecnologias e Nanoelectrónica.
 
+---
+
 # Qualidade de Vida ❤️
 
-### Alojamento 🏡
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Alojamento 🏡</h3>
+        <ul>
+            <li>Candidatura a residências através do site da faculdade</li>
+            <li>Vagas para as residências costumam ficar ocupadas muito rapidamente por volta de 300-500€/mês</li>
+            <li><u>Sugestão</u>: inscrição no site de KULeuven que permite uma procura mais simples e mais prática do alojamento pretendido (Kotwijs)</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Transportes 🚌</h3>
+        <ul>
+            <li>Ótimos dentro da cidade</li>
+            <li>Passe de autocarro, transporte mais comum, custa 25 €/ano</li>
+            <li>Comum usar bicicleta como meio de transporte dentro da cidade pelo que os preços de aluguer e compra das mesmas não excede o preço dos transportes públicos</li>
+        </ul>
+    </div>
+</div>
 
-#### Opções Alojamento sugeridas pela universidade:
-
--   Candidatura a recidências através do site da faculdade
--   Vagas para as residências costumam ficar ocupadas muito rapidamente por volta de 300-500€/mês
--   <u>Sugestão</u>: inscrição no site de KULeuven que permite uma procura mais simples e mais prática do alojamento pretendido (Kotwijs)
-
-### Transportes 🚌
-
--   Ótimos dentro da cidade
--   Passe de autocarro, transporte mais comum, custa 25 €/ano
--   Comum usar bicicleta como meio de transporte dentro da cidade pelo que os preços de - - Aluguer e compra das mesmas não excede o preço dos transportes públicos
+---
 
 # Quotes 🎙️
 

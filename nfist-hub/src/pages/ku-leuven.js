@@ -6,7 +6,7 @@ export default function KULPage() {
         <>
             <Seo title="KUL" useTitleTemplate={true} noIndex={true} />
             <Page>
-                <NormalSection sectionId="ku-leuven" heading="KU Leuven" />
+                <NormalSection sectionId="ku-leuven" heading="Katholieke Universiteit Leuven" />
             </Page>
         </>
     );

@@ -2,11 +2,13 @@
 sectionId: sorbonne
 ---
 
+---
+
 <img src="images/sorbonne.jpg" alt="Sorbonne" style="width:660px;margin:0;vertical-align:middle;position:absolute;top:0;left:0;border-radius:10px;">
 
 ---
 
-# Ensino
+# Ensino 📚
 
 <u>Foco:</u> Física, em particular Física Quântica, de Partículas, Nuclear e Astrofísica
 
@@ -18,7 +20,7 @@ sectionId: sorbonne
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Materiais 📚</h3>
+        <h3>Materiais 🛠️</h3>
         <ul>
             <li>Os manuais/notas dos professores são bastante bons.</li>
         </ul>
@@ -35,12 +37,16 @@ sectionId: sorbonne
 </div>
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h3>Carga de trabalho ⏰</h3>
-        <p>Inferior a MEFT</p>
+        <h3>Carga de trabalho 😮‍💨</h3>
+        <ul>
+            <li>Inferior a MEFT</li>
+        </ul>
     </div>
     <div style="flex-basis: 48%;">
         <h3>Dificuldade do Curso 🪖</h3>
-        <p>Inferior a MEFT</p>
+        <ul>
+            <li>Inferior a MEFT</li>
+        </ul>
     </div>
 </div>
 
@@ -55,7 +61,7 @@ sectionId: sorbonne
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Avaliação 🧐</h3>
+        <h3>Avaliação 📝</h3>
         <ul>
             <li>Avaliação é só por exames (sem alternativas)</li>
             <li>Com uma única fase</li>
@@ -69,9 +75,9 @@ sectionId: sorbonne
     </div>
 </div>
 
-### Equivalências
+### Equivalências 📜
 
-#### 1º Semestre
+#### 1º Semestre ❄️
 
 -   Complementos de Mecânica Quântica;
 -   Relatividade e Cosmologia;

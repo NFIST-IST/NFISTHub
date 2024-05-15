@@ -2,6 +2,8 @@
 sectionId: ntnu
 ---
 
+---
+
 <img src="images/ntnu.jpg" alt="NTNU" class="rounded-image">
 
 ---
@@ -28,11 +30,15 @@ sectionId: ntnu
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
         <h3>Carga de trabalho 😮‍💨</h3>
-        <li>Inferior a MEFT</li>
+        <ul>
+            <li>Inferior a MEFT</li>
+        </ul>
     </div>
     <div style="flex-basis: 48%;">
         <h3>Dificuldade do Curso 🪖</h3>
-        <li>Inferior a MEFT</li>
+        <ul>
+            <li>Inferior a MEFT</li>
+        </ul>
     </div>
 </div>
 
@@ -80,7 +86,7 @@ sectionId: ntnu
 
 <div style="display: flex;">
         <div style="flex-basis: 48%;">
-            <h4>1º Semestre</h4>
+            <h4>1º Semestre ❄️</h4>
             <ul>
                 <li>Ótica e Lasers;</li>
                 <li>Relatividade e Cosmologia;</li>
@@ -90,7 +96,7 @@ sectionId: ntnu
             </ul>
         </div>
         <div style="flex-basis: 48%;">
-            <h4>2º Semestre</h4>
+            <h4>2º Semestre ☀️</h4>
             <ul>
                 <li>Astrofísica;</li>
                 <li>Complementos de Mecânica Quântica;</li>

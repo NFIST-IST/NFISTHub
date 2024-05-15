@@ -2,6 +2,8 @@
 sectionId: dtu
 ---
 
+---
+
 <img src="images/dtu.jpg" alt="DTU" class="rounded-image">
 
 ---
@@ -17,7 +19,7 @@ sectionId: dtu
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Materiais 📚</h3>
+        <h3>Materiais 🛠️</h3>
         <ul>
             <li>Universidade dá acesso a diversos meios, incluindo:</li>
             <ul>
@@ -43,10 +45,14 @@ sectionId: dtu
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Carga de trabalho ⏰</h3>
-        <p>Inferior a MEFT</p>
+        <h3>Carga de trabalho 😮‍💨</h3>
+        <ul>
+            <li>Inferior a MEFT</li>
+        </ul>
         <h3>Dificuldade do Curso 🪖</h3>
-        <p>Inferior a MEFT</p>
+        <ul>
+            <li>Inferior a MEFT</li>
+        </ul>
     </div>
 </div>
 
@@ -62,7 +68,7 @@ sectionId: dtu
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Avaliação 🧐</h3>
+        <h3>Avaliação 📝</h3>
         <ul>
             <li>Componente de trabalho continuo (apresentações, TPC's, quizzes, etc.)</li>
             <li>Componente de exame final, que normalmente consiste numa prova oral ou um projeto final</li>
@@ -71,9 +77,9 @@ sectionId: dtu
     </div>
 </div>
 
-### Equivalências
+### Equivalências 📜
 
-#### 1º Semestre
+#### 1º Semestre ❄️
 
 -   Física e Tecnologia dos Plasmas;
 -   Nanotecnologias e Nanoeletrónica;

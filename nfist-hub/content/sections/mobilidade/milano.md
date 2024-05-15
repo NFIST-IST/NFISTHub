@@ -2,13 +2,15 @@
 sectionId: milano
 ---
 
+---
+
 <img src="images/milano.jpg" alt="Milano" class="rounded-image">
 
 ---
 
-# Ensino
+# Ensino 📚
 
-Foco: <u>Física e Engenharia Física</u>
+<u>Foco:</u> Física e Engenharia Física
 
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
@@ -18,7 +20,7 @@ Foco: <u>Física e Engenharia Física</u>
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Materiais 📚</h3>
+        <h3>Materiais 🛠️</h3>
         <ul>
             <li>Lecture notes</li>
             <li>Livros</li>
@@ -36,25 +38,31 @@ Foco: <u>Física e Engenharia Física</u>
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Carga de trabalho ⏰</h3>
-        <p>Reduzida</p>
+        <h3>Carga de trabalho 😮‍💨</h3>
+        <ul>
+            <li>Reduzida</li>
+        </ul>
     </div>
 </div>
 
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
         <h3>Dificuldade do Curso 🪖</h3>
-        <p>Reduzida</p>
+        <ul>
+            <li>Reduzida</li>
+        </ul>
     </div>
     <div style="flex-basis: 48%;">
         <h3>Horário ⏰</h3>
-        <p>Carga horária baixa</p>
+        <ul>
+            <li>Carga horária baixa</li>
+        </ul>
     </div>
 </div>
 
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h3>Avaliação 🧐</h3>
+        <h3>Avaliação 📝</h3>
         <ul>
             <li>Exames Orais</li>
         </ul>
@@ -67,9 +75,9 @@ Foco: <u>Física e Engenharia Física</u>
     </div>
 </div>
 
-### Equivalências
+### Equivalências 📜
 
-#### 2º Semestre
+#### 2º Semestre ☀️
 
 -   Introdução à Investigação;
 -   Técnicas de Micro e Nanofabricação;

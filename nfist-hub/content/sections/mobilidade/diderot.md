@@ -2,6 +2,8 @@
 sectionId: diderot
 ---
 
+---
+
 <img src="images/diderot.jpg" alt="Diderot" class="rounded-image">
 
 ---
@@ -17,7 +19,7 @@ sectionId: diderot
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Materiais 📚</h3>
+        <h3>Materiais 🛠️</h3>
         <ul>
             <li>Disponibilizados na plataforma online da universidade</li>
             <li>Livros em bibliotecas</li>
@@ -37,7 +39,7 @@ sectionId: diderot
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Avaliação 🧐</h3>
+        <h3>Avaliação 📝</h3>
         <ul>
             <li>Testes</li>
             <li>Trabalhos de casa</li>
@@ -48,8 +50,10 @@ sectionId: diderot
 
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h3>Carga de trabalho ⏰</h3>
-        <p>Inferior a MEFT</p>
+        <h3>Carga de trabalho 😮‍💨</h3>
+        <ul>
+            <li>Inferior a MEFT</li>
+        </ul>
     </div>
     <div style="flex-basis: 48%;">
         <h3>Opções Extra 🏅</h3>
@@ -59,11 +63,11 @@ sectionId: diderot
     </div>
 </div>
 
-### Equivalências
+### Equivalências 📜
 
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h4>1º Semestre</h4>
+        <h4>1º Semestre ❄️</h4>
         <ul>
             <li>Física do Estado Sólido;</li>
             <li>Astrofísica;</li>

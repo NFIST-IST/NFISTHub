@@ -2,13 +2,15 @@
 sectionId: madra
 ---
 
+---
+
 <img src="images/madras.webp" alt="ITT Madra" class="rounded-image">
 
 ---
 
-# Ensino
+# Ensino 📚
 
-Foco: <u>Engenharia</u>
+<u>Foco:</u> Engenharia
 
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
@@ -18,7 +20,7 @@ Foco: <u>Engenharia</u>
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Materiais 📚</h3>
+        <h3>Materiais 🛠️</h3>
         <ul>
             <li>Livros em bibliotecas</li>
         </ul>
@@ -35,19 +37,23 @@ Foco: <u>Engenharia</u>
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Carga de trabalho ⏰</h3>
-        <p>Baixa</p>
+        <h3>Carga de trabalho 😮‍💨</h3>
+        <ul>
+            <p>Baixa</p>
+        </ul>
     </div>
 </div>
 
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
         <h3>Dificuldade do Curso 🪖</h3>
-        <p>Baixa</p>
+        <ul>
+            <li>Baixa</li>
+        </ul>
     </div>
     <div style="flex-basis: 48%;">
         <h3>Horário ⏰</h3>
-        <p>Feito pelo aluno</p>
+        <li>Feito pelo aluno</li>
     </div>
 </div>
 
@@ -70,8 +76,8 @@ Foco: <u>Engenharia</u>
 
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h3>Equivalências</h3>
-        <h4>1º Semestre</h4>
+        <h3>Equivalências 📜</h3>
+        <h4>1º Semestre ❄️</h4>
         <ul>
             <li>Física de Partículas;</li>
             <li>Nanotecnologias;</li>

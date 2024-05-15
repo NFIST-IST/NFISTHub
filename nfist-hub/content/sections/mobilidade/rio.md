@@ -2,13 +2,15 @@
 sectionId: rio
 ---
 
+---
+
 <img src="images/rio.jpg" alt="UniRio" class="rounded-image">
 
 ---
 
 # Ensino 📚
 
-Foco: <u>Física de Partículas</u>
+<u>Foco:</u> Física de Partículas
 
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
@@ -29,11 +31,15 @@ Foco: <u>Física de Partículas</u>
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
         <h3>Carga de trabalho 😮‍💨</h3>
-        <p>Semelhante a MEFT</p>
+        <ul>
+            <li>Semelhante a MEFT</li>
+        </ul>
     </div>
     <div style="flex-basis: 48%;">
         <h3>Dificuldade do Curso 🪖</h3>
-        <p>Semelhante a MEFT</p>
+        <ul>
+            <li>Semelhante a MEFT</li>
+        </ul>
     </div>
 </div>
 
@@ -65,11 +71,11 @@ Foco: <u>Física de Partículas</u>
     </div>
 </div>
 
-### Equivalências
+### Equivalências 📜
 
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h4>1º Semestre</h4>
+        <h4>1º Semestre ❄️</h4>
         <ul>
             <li>Mecânica Quântica;</li>
             <li>Ótica e Lasers;</li>

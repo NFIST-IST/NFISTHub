@@ -2,23 +2,25 @@
 sectionId: kth
 ---
 
+---
+
 <img src="images/kth.jpg" alt="KTH" class="rounded-image">
 
 ---
 
-# Ensino
+# Ensino 📚
 
-Foco: <u>Engenharia</u>
+<u>Foco:</u> Engenharia
 
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h3>Aulas</h3>
+        <h3>Aulas 👩‍🏫</h3>
         <ul>
             <li>Em Inglês</li>
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Materiais</h3>
+        <h3>Materiais 🛠️</h3>
         <ul>
             <li>Incluem:</li>
             <ul>
@@ -31,7 +33,7 @@ Foco: <u>Engenharia</u>
 
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h3>Fatores mais pessoais</h3>
+        <h3>Fatores mais pessoais 🙍‍♂️</h3>
         <ul>
             <li>Qualidade do ensino é, comparativamente, melhor</li>
             <li>Os docentes são mais disponíveis e próximos.</li>
@@ -40,16 +42,20 @@ Foco: <u>Engenharia</u>
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Carga de trabalho</h3>
-        <p>Inferior a MEFT</p>
-        <h3>Dificuldade do Curso</h3>
-        <p>Inferior a MEFT</p>
+        <h3>Carga de trabalho 😮‍💨</h3>
+        <ul>
+            <li>Inferior a MEFT</li>
+        </ul>
+        <h3>Dificuldade do Curso 🪖</h3>
+        <ul>
+            <li>Inferior a MEFT</li>
+        </ul>
     </div>
 </div>
 
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h3>Horário</h3>
+        <h3>Horário ⏰</h3>
         <ul>
             <li>Consoante as cadeiras escolhidas</li>
             <li>Sobreposições podem ocorrer</li>
@@ -58,7 +64,7 @@ Foco: <u>Engenharia</u>
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Avaliação</h3>
+        <h3>Avaliação 📝</h3>
         <ul>
             <li>Trabalhos</li>
             <li>Exames</li>
@@ -66,7 +72,7 @@ Foco: <u>Engenharia</u>
     </div>
 </div>
 
-### Opções Extra
+### Opções Extra 🏅
 
 -   Atividades extra-curriculares:
     -   cursos de sueco
@@ -74,9 +80,9 @@ Foco: <u>Engenharia</u>
 -   Viajar durante metade da duração de Erasmus não é de todo impossível
 -   A KTH pode ser uma boa pausa no ensino no IST, que se pode tornar muito cansativo e por vezes frustrante.
 
-### Equivalências
+### Equivalências 📜
 
-#### 2º Semestre
+#### 2º Semestre ☀️
 
 -   Introdução à Investigação;
 -   Técnicas de Micro e Nanofabricação;

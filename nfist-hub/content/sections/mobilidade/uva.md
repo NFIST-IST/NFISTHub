@@ -8,18 +8,18 @@ sectionId: uva
 
 ---
 
-# Ensino
+# Ensino 📚
 
 <!-- Aulas Section -->
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h3>Aulas</h3>
+        <h3>Aulas 👩‍🏫</h3>
         <ul>
             <li>Em Inglês</li>
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Materiais</h3>
+        <h3>Materiais 🛠️</h3>
         <ul>
             <li>Notas das aulas seguidos também pelos professores nas aulas</li>
             <li>Fichas de exercícios</li>
@@ -31,7 +31,7 @@ sectionId: uva
 <!-- Fatores mais pessoais Section -->
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h3>Fatores mais pessoais</h3>
+        <h3>Fatores mais pessoais 🙍‍♂️</h3>
         <ul>
             <li>Grande disponibilidade de sítios para estudar na universidade</li>
             <li>A faculdade de ciências é recente e moderna, inclui:</li>
@@ -51,19 +51,23 @@ sectionId: uva
 <!-- Carga de trabalho Section -->
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h3>Carga de trabalho</h3>
-        <p>Reduzida</p>
+        <h3>Carga de trabalho 😮‍💨</h3>
+        <ul>
+            <li>Reduzida</li>
+        </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Dificuldade do Curso</h3>
-        <p>Reduzida</p>
+        <h3>Dificuldade do Curso 🪖</h3>
+        <ul>
+            <li>Reduzida</li>
+        </ul>
     </div>
 </div>
 
 <!-- Horário Section -->
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h3>Horário</h3>
+        <h3>Horário ⏰</h3>
         <ul>
             <li>Cadeiras estruturadas em quartis de 15 ECT's cada</li>
             <ul>
@@ -76,7 +80,7 @@ sectionId: uva
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Avaliação</h3>
+        <h3>Avaliação 📝</h3>
         <ul>
             <li>Em inglês</li>
             <li>Avaliação contínua</li>
@@ -96,11 +100,11 @@ sectionId: uva
 
 <!-- Equivalências Section -->
 
-### Equivalências
+### Equivalências 📜
 
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h4>1º Semestre</h4>
+        <h4>1º Semestre ❄️</h4>
         <ul>
             <li>Física de Partículas;</li>
             <li>Complementos de Mecânica Quântica;</li>
@@ -111,7 +115,7 @@ sectionId: uva
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h4>2º Semestre</h4>
+        <h4>2º Semestre ☀️</h4>
         <ul>
             <li>Introdução à Investigação;</li>
             <li>Modelo Standard e Nova Física;</li>
@@ -126,7 +130,7 @@ sectionId: uva
 
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h3>Alojamento</h3>
+        <h3>Alojamento 🏡</h3>
         <ul>
             <li>Possibilidade de deixar a universidade tratar do alojamento: custo de cerca de 200 euros</li>
             <li>A faculdade também sugere opções de alojamento:</li>
@@ -142,7 +146,7 @@ sectionId: uva
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Transportes</h3>
+        <h3>Transportes 🚌</h3>
         <h4>Dentro da cidade</h4>
         <ul>
             <li>Bons</li>

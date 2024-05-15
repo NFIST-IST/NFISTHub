@@ -2,6 +2,8 @@
 sectionId: aalto
 ---
 
+---
+
 <img src="images/aalto.jpg" alt="Aalto" class="rounded-image">
 
 ---
@@ -27,11 +29,15 @@ sectionId: aalto
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
         <h3>Carga de trabalho 😮‍💨</h3>
-        <p>Média</p>
+        <ul>
+            <li>Média</li>
+        </ul>
     </div>
     <div style="flex-basis: 48%;">
         <h3>Dificuldade do Curso 🪖</h3>
-        <p>Mais baixa que MEFT</p>
+        <ul>
+        <li>Mais baixa que MEFT</li>
+        </ul>
     </div>
 </div>
 

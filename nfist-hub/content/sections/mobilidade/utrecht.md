@@ -8,19 +8,19 @@ sectionId: utrecht
 
 ---
 
-# Ensino
+# Ensino 📚
 
 <u>Curso:</u> Mestrado em Física Teórica
 
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h3>Aulas</h3>
+        <h3>Aulas 👩‍🏫</h3>
         <ul>
             <li>Em Inglês</li>
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Materiais</h3>
+        <h3>Materiais 🛠️</h3>
         <ul>
             <li>Os professores disponibilizam tudo o que é necessário</li>
         </ul>
@@ -30,7 +30,7 @@ sectionId: utrecht
 <!-- Fatores mais pessoais Section -->
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h3>Fatores mais pessoais</h3>
+        <h3>Fatores mais pessoais 🙍‍♂️</h3>
         <ul>
             <li>Muitos espaços de estudo</li>
             <li>Ótima qualidade de ensino</li>
@@ -39,17 +39,21 @@ sectionId: utrecht
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Carga de trabalho</h3>
-        <p>Mais baixa que MEFT</p>
-        <h3>Dificuldade do Curso</h3>
-        <p>Mais baixa que MEFT</p>
+        <h3>Carga de trabalho 😮‍💨</h3>
+        <ul>
+            <li>Mais baixa que MEFT</li>
+        </ul>
+        <h3>Dificuldade do Curso 🪖</h3>
+        <ul>
+            <li>Mais baixa que MEFT</li>
+        </ul>
     </div>
 </div>
 
 <!-- Horário Section -->
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h3>Horário</h3>
+        <h3>Horário ⏰</h3>
         <ul>
             <li>Carga horária um pouco mais leve que MEFT:</li>
             <ul>
@@ -58,7 +62,7 @@ sectionId: utrecht
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Avaliação</h3>
+        <h3>Avaliação 📝</h3>
         <ul>
             <li>Avaliação contínua: fichas semanais</li>
             <li>Exames finais</li>
@@ -70,7 +74,7 @@ sectionId: utrecht
 <!-- Opções Extra Section -->
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h3>Opções Extra</h3>
+        <h3>Opções Extra 🏅</h3>
         <ul>
             <li>Muito tempo para atividades extracurriculares</li>
         </ul>
@@ -79,12 +83,12 @@ sectionId: utrecht
 
 <!-- Equivalências Section -->
 
-### Equivalências
+### Equivalências 📜
 
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
         <ul>
-            <li><strong>1º Semestre</strong></li>
+            <h4>1º Semestre ❄️</h4>
             <ul>
                 <li>Física de Partículas;</li>
                 <li>Teoria de Campo;</li>
@@ -102,7 +106,7 @@ sectionId: utrecht
 
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h3>Alojamento</h3>
+        <h3>Alojamento 🏡</h3>
         <ul>
             <li>Opções Alojamento sugeridas pela universidade:</li>
             <ul>
@@ -114,7 +118,7 @@ sectionId: utrecht
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Transportes</h3>
+        <h3>Transportes 🚌</h3>
         <ul>
             <li>Ótimos meios de transporte dentro da cidade e no país</li>
             <li>Preços bastante elevados</li>

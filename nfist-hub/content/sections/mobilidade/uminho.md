@@ -14,13 +14,13 @@ sectionId: uminho
 
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h3>Aulas</h3>
+        <h3>Aulas 👩‍🏫</h3>
         <ul>
             <li>Em Português</li>
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Materiais</h3>
+        <h3>Materiais 🛠️</h3>
         <ul>
             <li>Meios de estudo disponibilizados bastante semelhantes aos disponibilizados no técnico.</li>
         </ul>
@@ -30,7 +30,7 @@ sectionId: uminho
 <!-- Fatores mais pessoais Section -->
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h3>Fatores mais pessoais</h3>
+        <h3>Fatores mais pessoais 🙍‍♂️</h3>
         <ul>
             <li>Existe um laboratório/centro de investigação em Braga dedicado a Nanotecnologias e à Matéria Condensada</li>
             <li>O ensino tem boa qualidade</li>
@@ -40,23 +40,27 @@ sectionId: uminho
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Carga de trabalho</h3>
-        <p>Muito leve</p>
-        <h3>Dificuldade do Curso</h3>
-        <p>Baixa</p>
+        <h3>Carga de trabalho 😮‍💨</h3>
+        <ul>
+            <li>Muito leve</li>
+        </ul>
+        <h3>Dificuldade do Curso 🪖</h3>
+        <ul>
+            <li>Baixa</li>
+        </ul>
     </div>
 </div>
 
 <!-- Horário Section -->
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h3>Horário</h3>
+        <h3>Horário ⏰</h3>
         <ul>
             <li>Carga horária muito leve (2 dias livres por semana)</li>
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Avaliação</h3>
+        <h3>Avaliação 📝</h3>
         <ul>
             <li>Testes</li>
             <li>Apresentações</li>
@@ -65,11 +69,11 @@ sectionId: uminho
     </div>
 </div>
 
-### Equivalências
+### Equivalências 📜
 
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h4>1º Semestre</h4>
+        <h4>1º Semestre ❄️</h4>
         <ul>
             <li>Técnicas Matemáticas da Física;</li>
             <li>Mecânica Quântica I e II;</li>
@@ -80,7 +84,7 @@ sectionId: uminho
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h4>2º Semestre</h4>
+        <h4>2º Semestre ☀️</h4>
         <ul>
             <li>Mecânica Quântica I e II;</li>
             <li>Física do Estado Sólido;</li>
@@ -95,7 +99,7 @@ sectionId: uminho
 
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h3>Alojamento</h3>
+        <h3>Alojamento 🏡</h3>
         <ul>
             <li>Fácil de encontrar um alojamento/quarto alugado em casa partilhada de boa qualidade</li>
             <li>Procurar através de:
@@ -108,7 +112,7 @@ sectionId: uminho
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Transportes</h3>
+        <h3>Transportes 🚌</h3>
         <h4>Dentro da cidade</h4>
         <ul>
             <li>Bastante bons na zona central da cidade</li>

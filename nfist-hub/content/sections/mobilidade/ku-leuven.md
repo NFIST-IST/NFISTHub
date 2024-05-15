@@ -2,6 +2,8 @@
 sectionId: ku-leuven
 ---
 
+---
+
 <img src="images/ku-leuven.jpg" alt="KU Leuven" class="rounded-image">
 
 ---
@@ -16,7 +18,7 @@ sectionId: ku-leuven
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Materiais 📚</h3>
+        <h3>Materiais 🛠️</h3>
         <ul>
             <li>Estudar a partir dos apontamentos das aulas é suficiente</li>
         </ul>
@@ -33,15 +35,19 @@ sectionId: ku-leuven
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Carga de trabalho ⏰</h3>
-        <p>Mais que em MEFT</p>
+        <h3>Carga de trabalho 😮‍💨</h3>
+        <ul>
+            <li>Mais que em MEFT</li>
+        </ul>
     </div>
 </div>
 
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
         <h3>Dificuldade do Curso 🪖</h3>
-        <p>Média</p>
+        <ul>
+            <li>Média</li>
+        </ul>
     </div>
     <div style="flex-basis: 48%;">
         <h3>Horário ⏰</h3>
@@ -53,7 +59,7 @@ sectionId: ku-leuven
     </div>
 </div>
 
-### Avaliação 🧐
+### Avaliação 📝
 
 -   Em inglês
 -   Teste oral + teste escrito
@@ -62,7 +68,7 @@ sectionId: ku-leuven
 
 ### Equivalências 📜
 
-#### 1º Semestre
+#### 1º Semestre ❄️
 
 -   Relatividade e cosmologia;
 -   Complementos de Mecânica Quântica;

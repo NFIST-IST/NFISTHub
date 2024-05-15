@@ -22,7 +22,7 @@ sectionId: tum
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Materiais 📚</h3>
+        <h3>Materiais 🛠️</h3>
         <ul>
             <li>Disponibilizados na plataforma online da universidade</li>
             <li>Livros em bibliotecas</li>
@@ -42,10 +42,14 @@ sectionId: tum
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Carga de trabalho ⏰</h3>
-        <p>Média</p>
+        <h3>Carga de trabalho 😮‍💨</h3>
+        <ul>
+            <li>Média</li>
+        </ul>
         <h3>Dificuldade do Curso 🪖</h3>
-        <p>Média</p>
+        <ul>
+            <li>Média</li>
+        </ul>
     </div>
 </div>
 
@@ -85,11 +89,11 @@ sectionId: tum
     </div>
 </div>
 
-#### Equivalências
+#### Equivalências 📜
 
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h4>1º Semestre</h4>
+        <h4>1º Semestre ❄️</h4>
         <ul>
             <li>Astrofísica;</li>
             <li>Nanotecnologias e Nanoeletrónica;</li>
@@ -99,7 +103,7 @@ sectionId: tum
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h4>2º Semestre</h4>
+        <h4>2º Semestre ☀️</h4>
         <ul>
             <li>Introdução à Investigação;</li>
             <li>Tecnologias Energéticas;</li>

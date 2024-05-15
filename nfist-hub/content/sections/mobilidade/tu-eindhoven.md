@@ -8,7 +8,7 @@ sectionId: tu-eindhoven
 
 ---
 
-# Ensino
+# Ensino 📚
 
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
@@ -18,7 +18,7 @@ sectionId: tu-eindhoven
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Materiais 📚</h3>
+        <h3>Materiais 🛠️</h3>
         <ul>
             <li>Disponibilizados</li>
             <ul>
@@ -45,10 +45,14 @@ sectionId: tu-eindhoven
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Carga de trabalho ⏰</h3>
-        <p>Ligeiramente menor que MEFT</p>
+        <h3>Carga de trabalho 😮‍💨</h3>
+        <ul>
+            <li>Ligeiramente menor que MEFT</li>
+        </ul>
         <h3>Dificuldade do Curso 🪖</h3>
-        <p>Inferior a MEFT</p>
+        <ul>
+            <li>Inferior a MEFT</li>
+        </ul>
     </div>
 </div>
 
@@ -70,9 +74,9 @@ sectionId: tu-eindhoven
     </div>
 </div>
 
-### Equivalências
+### Equivalências 📜
 
-#### 1º Semestre
+#### 1º Semestre ❄️
 
 -   Tecnologias Energéticas;
 -   Nanotecnologia;

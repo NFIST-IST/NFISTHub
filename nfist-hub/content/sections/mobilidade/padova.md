@@ -2,6 +2,8 @@
 sectionId: padova
 ---
 
+---
+
 <img src="images/padova.jpg" alt="Padova" class="rounded-image">
 
 ---
@@ -38,11 +40,15 @@ sectionId: padova
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
         <h3>Carga de trabalho 😮‍💨</h3>
-        <p>Baixa</p>
+        <ul>
+            <li>Baixa</li>
+        </ul>
     </div>
     <div style="flex-basis: 48%;">
         <h3>Dificuldade do Curso 🪖</h3>
-        <p>Média</p>
+        <ul>
+            <li>Média</li>
+        </ul>
     </div>
 </div>
 
@@ -66,9 +72,9 @@ sectionId: padova
 
 -   Como a carga de trabalho não é muito exigente, permite que se tenha tempo para atividades extra curriculares.
 
-### Equivalências
+### Equivalências 📜
 
-#### 2º Semestre
+#### 2º Semestre ☀️
 
 -   Introdução à Investigação;
 -   Eletrónica;

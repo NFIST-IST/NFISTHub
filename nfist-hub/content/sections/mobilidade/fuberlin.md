@@ -2,6 +2,8 @@
 sectionId: fuberlin
 ---
 
+---
+
 <img src="images/fuberlin.jpg" alt="FU Berlin">
 
 ---
@@ -18,7 +20,7 @@ sectionId: fuberlin
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Materiais 📚</h3>
+        <h3>Materiais 🛠️</h3>
         <ul>
             <li>Estudar a partir dos apontamentos das aulas é suficiente</li>
         </ul>
@@ -35,10 +37,14 @@ sectionId: fuberlin
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Carga de trabalho ⏰</h3>
-        <p>Baixa</p>
+        <h3>Carga de trabalho 😮‍💨</h3>
+        <ul>
+            <li>Baixa</li>
+        </ul>
         <h3>Dificuldade do Curso 🪖</h3>
-        <p>Baixa</p>
+        <ul>
+            <li>Baixa</li>
+        </ul>
     </div>
 </div>
 
@@ -52,7 +58,7 @@ sectionId: fuberlin
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Avaliação 🧐</h3>
+        <h3>Avaliação 📝</h3>
         <ul>
             <li>Apresentações</li>
             <li>Provas orais</li>

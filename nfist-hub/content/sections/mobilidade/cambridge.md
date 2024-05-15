@@ -2,6 +2,8 @@
 sectionId: cambridge
 ---
 
+---
+
 <img src="images/cambridge.jpg" alt="Cambridge" class="rounded-image">
 
 ---
@@ -18,7 +20,7 @@ sectionId: cambridge
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Materiais 📚</h3>
+        <h3>Materiais 🛠️</h3>
         <ul>
             <li>A maioria dos professores disponibiliza notas escritas por eles.</li>
         </ul>
@@ -47,8 +49,10 @@ sectionId: cambridge
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Carga de trabalho ⏰</h3>
-        <p>Muito elevada</p>
+        <h3>Carga de trabalho 😮‍💨</h3>
+        <ul>
+            <li>Muito elevada</li>
+        </ul>
     </div>
 </div>
 
@@ -62,7 +66,7 @@ sectionId: cambridge
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Avaliação 🧐</h3>
+        <h3>Avaliação 📝</h3>
         <ul>
             <li>O método de avaliação do mestrado é por exame em Junho.</li>
             <li>No 5º ano é realizado um exame em janeiro para decidir quem faz doutoramento.</li>

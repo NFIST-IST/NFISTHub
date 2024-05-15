@@ -2,6 +2,8 @@
 sectionId: epfl
 ---
 
+---
+
 <img src="images/epfl.jpg" alt="EPFL" class="rounded-image">
 
 ---
@@ -16,7 +18,7 @@ sectionId: epfl
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Materiais 📚</h3>
+        <h3>Materiais 🛠️</h3>
         <ul>
             <li>Moodle com todo o material disponibilizado</li>
         </ul>
@@ -36,10 +38,14 @@ sectionId: epfl
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Carga de trabalho ⏰</h3>
-        <p>Leve</p>
+        <h3>Carga de trabalho 😮‍💨</h3>
+        <ul>
+            <li>Leve</li>
+        </ul>
         <h3>Dificuldade do Curso 🪖</h3>
-        <p>Elevada</p>
+        <ul>
+            <li>Elevada</li>
+        </ul>
     </div>
 </div>
 
@@ -51,7 +57,7 @@ sectionId: epfl
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Avaliação 🧐</h3>
+        <h3>Avaliação 📝</h3>
         <ul>
             <li>Difere de cadeira para cadeira</li>
             <li>Pode ser através de:</li>

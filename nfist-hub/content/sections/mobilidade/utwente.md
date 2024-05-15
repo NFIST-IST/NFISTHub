@@ -8,19 +8,19 @@ sectionId: utwente
 
 ---
 
-# Ensino
+# Ensino 📚
 
 <u>Foco:</u> Aplicações de Matéria Condensada como Supercondutividade, e Ótica e Lasers
 
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h3>Aulas</h3>
+        <h3>Aulas 👩‍🏫</h3>
         <ul>
             <li>Em Inglês</li>
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Materiais</h3>
+        <h3>Materiais 🛠️</h3>
         <ul>
             <li>Bibliografia sugerida</li>
             <li>Sebentas organizadas pelos professores</li>
@@ -32,7 +32,7 @@ sectionId: utwente
 <!-- Fatores mais pessoais Section -->
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h3>Fatores mais pessoais</h3>
+        <h3>Fatores mais pessoais 🙍‍♂️</h3>
         <ul>
             <li>Bibliotecas com acesso a computadores</li>
             <li>Salas de estudo</li>
@@ -43,27 +43,33 @@ sectionId: utwente
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Localização</h3>
-        <p>Enschede</p>
+        <h3>Localização 📍</h3>
+        <ul>
+            <li>Enschede</li>
+        </ul>
     </div>
 </div>
 
 <!-- Carga de trabalho Section -->
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h3>Carga de trabalho</h3>
-        <p>Quase nula comparada com MEFT</p>
+        <h3>Carga de trabalho 😮‍💨</h3>
+        <ul>
+            <li>Quase nula comparada com MEFT</li>
+        </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Dificuldade do Curso</h3>
-        <p>Média</p>
+        <h3>Dificuldade do Curso 🪖</h3>
+        <ul>
+            <li>Média</li>
+        </ul>
     </div>
 </div>
 
 <!-- Horário Section -->
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h3>Horário</h3>
+        <h3>Horário ⏰</h3>
         <ul>
             <li>Cadeiras estruturadas em quartis de 15 ECT's cada</li>
             <ul>
@@ -75,7 +81,7 @@ sectionId: utwente
         </ul>
     </div>
     <div style="flex-basis: 48%;">
-        <h3>Avaliação</h3>
+        <h3>Avaliação 📝</h3>
         <ul>
             <li>Trabalhos de casa para avaliação</li>
             <li>Exames</li>
@@ -88,9 +94,9 @@ sectionId: utwente
 <!-- Equivalências Section -->
 <div style="display: flex;">
     <div style="flex-basis: 48%;">
-        <h3>Equivalências</h3>
+        <h3>Equivalências 📜</h3>
         <ul>
-            <li><strong>1º Semestre</strong></li>
+            <h4>1º Semestre ❄️</h4>
             <ul>
                 <li>Óptica e Lasers;</li>
                 <li>Física da Matéria Condensada;</li>

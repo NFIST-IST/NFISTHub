@@ -6,7 +6,7 @@ export default function AaltoPage() {
         <>
             <Seo title="Aalto" useTitleTemplate={true} noIndex={true} />
             <Page>
-                <NormalSection sectionId="aalto" heading="Aalto" />
+                <NormalSection sectionId="aalto" heading="Aalto University" />
             </Page>
         </>
     );

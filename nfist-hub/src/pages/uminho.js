@@ -6,7 +6,7 @@ export default function UMinhoPage() {
         <>
             <Seo title="UMinho" useTitleTemplate={true} noIndex={true} />
             <Page>
-                <NormalSection sectionId="uminho" heading="UMinho" />
+                <NormalSection sectionId="uminho" heading="Universidade do Minho" />
             </Page>
         </>
     );

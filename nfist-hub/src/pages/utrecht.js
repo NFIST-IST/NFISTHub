@@ -6,7 +6,7 @@ export default function UTrechtPage() {
         <>
             <Seo title="UTrecht" useTitleTemplate={true} noIndex={true} />
             <Page>
-                <NormalSection sectionId="utrecht" heading="UTrecht" />
+                <NormalSection sectionId="utrecht" heading="Universiteit Utrecht" />
             </Page>
         </>
     );

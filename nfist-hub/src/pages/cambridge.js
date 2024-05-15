@@ -6,7 +6,7 @@ export default function CambridgePage() {
         <>
             <Seo title="Cambridge" useTitleTemplate={true} noIndex={true} />
             <Page>
-                <NormalSection sectionId="cambridge" heading="Cambridge" />
+                <NormalSection sectionId="cambridge" heading="University of Cambridge" />
             </Page>
         </>
     );

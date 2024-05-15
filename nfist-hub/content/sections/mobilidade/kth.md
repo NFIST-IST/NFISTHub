@@ -2,69 +2,69 @@
 sectionId: kth
 ---
 
-<img src="images/tum.webp" alt="TUM" class="rounded-image">
+<img src="images/kth.jpg" alt="KTH" class="rounded-image">
 
-# Conteúdos
-
--   [Conteúdos](#conteúdos)
--   [Ensino](#ensino)
-    -   [Aulas](#aulas)
-    -   [Materiais](#materiais)
-    -   [Fatores mais pessoais](#fatores-mais-pessoais)
-    -   [Carga de trabalho](#carga-de-trabalho)
-    -   [Dificuldade do Curso](#dificuldade-do-curso)
-    -   [Horário](#horário)
-    -   [Avaliação](#avaliação)
-    -   [Opções Extra](#opções-extra)
-    -   [Equivalências](#equivalências)
-        -   [2º Semestre](#2º-semestre)
--   [Qualidade de Vida](#qualidade-de-vida)
-    -   [Alojamento](#alojamento)
-    -   [Transportes](#transportes)
--   [Quotes](#quotes)
+---
 
 # Ensino
 
 Foco: <u>Engenharia</u>
 
-### Aulas
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Aulas</h3>
+        <ul>
+            <li>Em Inglês</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Materiais</h3>
+        <ul>
+            <li>Incluem:</li>
+            <ul>
+                <li>Apresentações</li>
+                <li>Vídeos</li>
+            </ul>
+        </ul>
+    </div>
+</div>
 
--   Em Inglês
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Fatores mais pessoais</h3>
+        <ul>
+            <li>Qualidade do ensino é, comparativamente, melhor</li>
+            <li>Os docentes são mais disponíveis e próximos.</li>
+            <li>Os serviços académicos são excelentes</li>
+            <li>Os lugares para estudar estão muito disponíveis e são incríveis.</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Carga de trabalho</h3>
+        <p>Inferior a MEFT</p>
+        <h3>Dificuldade do Curso</h3>
+        <p>Inferior a MEFT</p>
+    </div>
+</div>
 
-### Materiais
-
--   Incluem:
--   Apresentações
--   Vídeos
-
-### Fatores mais pessoais
-
--   Qualidade do ensino é, comparativamente, melhor
--   Os docentes são mais disponíveis e próximos.
--   Os serviços académicos são excelentes
--   Os lugares para estudar estão muito disponíveis e são incríveis.
-
-<u>Sugestão:</u> Aconselhamos a escolher a KTH ou outras universidades suecas àqueles que querem experimentar a cultura e estilo de vida da Suécia e não apenas pelo ensino, que pode ser uma desilusão que não preenche completamente a experiência de Erasmus.
-
-### Carga de trabalho
-
-Inferior a MEFT
-
-### Dificuldade do Curso
-
-Inferior a MEFT
-
-### Horário
-
--   Consoante as cadeiras escolhidas
--   Sobreposições podem ocorrer
--   Carga horária extremamente baixa
--   Aulas sobretudo de manhã
-
-### Avaliação
-
--   Trabalhos
--   Exames
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Horário</h3>
+        <ul>
+            <li>Consoante as cadeiras escolhidas</li>
+            <li>Sobreposições podem ocorrer</li>
+            <li>Carga horária extremamente baixa</li>
+            <li>Aulas sobretudo de manhã</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Avaliação</h3>
+        <ul>
+            <li>Trabalhos</li>
+            <li>Exames</li>
+        </ul>
+    </div>
+</div>
 
 ### Opções Extra
 
@@ -84,33 +84,38 @@ Inferior a MEFT
 -   Empreendedorismo, Inovação e Gestão de Ciência;
 -   Óptica e Lasers.
 
-# Qualidade de Vida
+---
 
-### Alojamento
+# Qualidade de Vida ❤️
 
--   Em residências universitárias:
-    -   Muito fácil de arranjar
-    -   Custa cerca de 500 EUR/mês
-    -   Muito boa qualidade
-    -   Processo de candidatura é muito cómodo.
--   É possível encontrar opções mais em conta (embora sejam, no geral, caras)
+<div style="display: flex;">
+    <div style="flex-basis: 48%;">
+        <h3>Alojamento</h3>
+        <ul>
+            <li>Em residências universitárias</li>
+            <li>Muito fácil de arranjar</li>
+            <li>Custa cerca de 500 EUR/mês</li>
+            <li>Muito boa qualidade</li>
+            <li>Processo de candidatura é muito cómodo.</li>
+            <li>É possível encontrar opções mais em conta (embora sejam, no geral, caras)</li>
+        </ul>
+    </div>
+    <div style="flex-basis: 48%;">
+        <h3>Transportes</h3>
+        <ul>
+            <li>Dentro da cidade</li>
+            <li>Muito fácil</li>
+            <li>Boa qualidade</li>
+            <li>Fora do país</li>
+            <li>Não é difícil de arranjar</li>
+            <li>A relação qualidade/preço podia ser melhor</li>
+        </ul>
+    </div>
+</div>
 
-### Transportes
+---
 
--   Dentro da cidade
--   Muito fácil
--   Boa qualidade
--   Fora do país
--   Não é difícil de arranjar
--   A relação qualidade/preço podia ser melhor
-
-A bolsa, entregue (a uma aluna que fez Erasmus no segundo semestre) foi entregue depois, e não foi de todo suficiente para cobrir os custos da estadia.
-
-Os produtos básicos são excelentes, mas os preços são 1.5 a 2.5 superiores em comparação com em Portugal: um quilo da carne mais barata no supermercado custa 15 EUR. A. O país é bastante seguro, apesar de ter havido um atentado terrorista enquanto a aluna de MEFT em Erasmus estava em Estocolmo.
-
-A hospitalidade é muito boa e as pessoas são amáveis!
-
-# Quotes
+# Quotes 🎙️
 
 ```
 É a forma mais fantástica de ganhar perspetiva do mundo e até do nosso próprio
@@ -126,3 +131,13 @@ parece e faz mesmo diferença na nossa sanidade mental
 Don’t go “just because”. Pensem nas equivalências e no que vão procurar lá fora,
 mesmo que seja apenas crescer pessoalmente
 ```
+
+---
+
+# Informação Extra ➕
+
+A bolsa, entregue (a uma aluna que fez Erasmus no segundo semestre) foi entregue depois, e não foi de todo suficiente para cobrir os custos da estadia.
+
+Os produtos básicos são excelentes, mas os preços são 1.5 a 2.5 superiores em comparação com em Portugal: um quilo da carne mais barata no supermercado custa 15 EUR. A. O país é bastante seguro, apesar de ter havido um atentado terrorista enquanto a aluna de MEFT em Erasmus estava em Estocolmo.
+
+A hospitalidade é muito boa e as pessoas são amáveis!

@@ -6,7 +6,7 @@ export default function KTHPage() {
         <>
             <Seo title="KTH" useTitleTemplate={true} noIndex={true} />
             <Page>
-                <NormalSection sectionId="kth" heading="KTH" />
+                <NormalSection sectionId="kth" heading="KTH Royal Institute of Technology" />
             </Page>
         </>
     );

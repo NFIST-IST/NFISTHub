@@ -28,6 +28,13 @@ module.exports = (options) => ({
             options: {
                 plugins: [
                     {
+                        resolve: 'gatsby-remark-embed-youtube',
+                        options: {
+                            width: 800,
+                            height: 400,
+                        },
+                    },
+                    {
                         resolve: `gatsby-remark-images`,
                         options: {
                             // It's important to specify the maxWidth (in pixels) of

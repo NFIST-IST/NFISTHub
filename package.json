@@ -36,5 +36,8 @@
         "*.+(js|jsx|json|yml|yaml|css|less|scss|ts|tsx|md|graphql|mdx)": [
             "yarn format"
         ]
+    },
+    "dependencies": {
+        "gatsby-remark-embed-youtube": "^0.0.7"
     }
 }

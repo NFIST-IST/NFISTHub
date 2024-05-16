@@ -11,7 +11,7 @@ years:
                   description: Circo
                   link: '/sf'
                   image: assets/jef.svg
-                  color: '#808080'
+                  color: '#FFA500'
                   long: false
                 - name: 'JEF'
                   description: Jornadas de Engenharia Física
@@ -19,17 +19,17 @@ years:
                   image: assets/jef.svg
                   color: '#C70DA2'
                   long: false
-                - name: 'EVA'
-                  description: Escola de Verão de Astronomia
-                  link: '/eva'
-                  image: assets/eva.svg
-                  color: '#FFC300'
-                  long: false
                 - name: 'Concurso Pulsar'
                   description: Pulsar
                   link: '/concurso-pulsar'
                   image: assets/jef.svg
                   color: '#808080'
+                  long: false
+                - name: 'EVA'
+                  description: Escola de Verão de Astronomia
+                  link: '/eva'
+                  image: assets/eva.svg
+                  color: '#FFC300'
                   long: false
                 - name: 'MEFT'
                   description: Student Seminars

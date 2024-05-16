@@ -86,10 +86,10 @@ export function ArticlesSection(props: ArticlesSectionProps): React.ReactElement
             <Section anchor={props.sectionId} heading={props.heading}>
                 <Slider additionalClasses={[classes.Articles]}>
                     {articles.length > 0
-                        ? articles.slice(0, 3).map((article, key) => {
+                        ? articles.map((article, key) => {
                               return <ArticleCard key={key} data={article} />;
                           })
-                        : [...Array(3)].map((_, key) => {
+                        : [...Array(6)].map((_, key) => {
                               return <ArticleCardSkeleton key={key} />;
                           })}
                 </Slider>

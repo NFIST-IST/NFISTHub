@@ -10,7 +10,7 @@ years:
                 - name: 'Semana da Física'
                   description: Circo
                   link: '/sf'
-                  image: assets/jef.svg
+                  image: assets/sf.svg
                   color: '#FFA500'
                   long: false
                 - name: 'JEF'

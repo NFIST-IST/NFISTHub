@@ -17,10 +17,10 @@ export default function IndexPage() {
             <Page useSplashScreenAnimation>
                 <HeroSection sectionId="hero" />
                 <ArticlesSection sectionId="articles" heading="Últimos Artigos" sources={['Blog']} />
-                <AboutSection sectionId="about" heading="NFIST (Núcleo de Física do Instituto Superior Técnico)" />
+                <AboutSection sectionId="about" heading="Núcleo de Física do Instituto Superior Técnico" />
                 <InterestsSection sectionId="details" heading="Details" />
                 <ProjectsSection sectionId="features" heading="Built-in Features" />
-                <ContactSection sectionId="github" heading="Issues?" />
+                <ContactSection sectionId="github" heading="Contactos" />
             </Page>
         </>
     );

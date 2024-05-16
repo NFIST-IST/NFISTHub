@@ -2,6 +2,8 @@
 sectionId: circo
 ---
 
+---
+
 <div style="text-align: justify">
 O <strong>Circo da Física</strong> é a principal atividade do NFIST, sendo que se trata de uma exposição interativa com experiências de grande componente didática que permitem explicar efeitos físicos popularmente considerados impossíveis ou estranhos e que as pessoas, geralmente, não sabem explicar.
 
@@ -11,6 +13,6 @@ Desta forma, o público terá a oportunidade de perceber a razão pela qual se p
 
 Tratam-­se de experiências que despertam a curiosidade pela ciência em geral, tendo, habitualmente, uma enorme aceitação junto de qualquer público devido ao seu grande carácter lúdico aliado a um forte aspeto educativo.
 
-Algumas das atividades incluem a <u><strong>Semana da Física</strong></u> e a <u><strong>Física sobre Rodas</strong></u>.
+Algumas das atividades incluem a <u><strong>[Semana da Física](/sf/)</strong></u> e a <u><strong>Física sobre Rodas</strong></u>.
 
 </div>

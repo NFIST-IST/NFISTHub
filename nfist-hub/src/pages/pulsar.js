@@ -9,7 +9,13 @@ export default function PulsarPage() {
                 <NormalSection sectionId="pulsar" heading="Pulsar" />
                 <ArticlesSection
                     sectionId="articles"
-                    heading="Latest Articles"
+                    heading="Concurso Pulsar"
+                    filterOption="Concurso Pulsar"
+                    sources={['Blog', 'Medium']}
+                />
+                <ArticlesSection
+                    sectionId="articles"
+                    heading="Últimas Edições"
                     filterOption="Pulsar"
                     sources={['Blog', 'Medium']}
                 />

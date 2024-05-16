@@ -13,7 +13,7 @@ import {
 export default function IndexPage() {
     return (
         <>
-            <Seo title="Gatsby Theme Portfolio Minimal" />
+            <Seo title="NFIST" />
             <Page useSplashScreenAnimation>
                 <HeroSection sectionId="hero" />
                 <ArticlesSection sectionId="articles" heading="Últimos Artigos" sources={['Blog']} />

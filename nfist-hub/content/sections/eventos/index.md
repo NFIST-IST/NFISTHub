@@ -34,8 +34,8 @@ years:
                 - name: 'MEFT'
                   description: Student Seminars
                   link: '/meft-student-seminars'
-                  image: assets/jef.svg
-                  color: '#808080'
+                  image: assets/mefts.svg
+                  color: '#00A8FF'
                   long: false
                 - name: 'EFT'
                   description: Histórias de Alumni

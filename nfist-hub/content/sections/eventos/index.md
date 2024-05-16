@@ -40,7 +40,7 @@ years:
                 - name: 'EFT'
                   description: Histórias de Alumni
                   link: '/eft'
-                  image: assets/jef.svg
-                  color: '#808080'
+                  image: assets/eft.svg
+                  color: '#008000'
                   long: false
 ---

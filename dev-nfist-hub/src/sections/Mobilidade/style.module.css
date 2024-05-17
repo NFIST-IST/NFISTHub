@@ -28,14 +28,22 @@
 .SectionButton {
     background: #000;
     position: relative;
-    padding: 0.5rem;
-    border-radius: 5px;
+    padding: 0.9rem;
+    border-radius: var(--border-radius);
     width: 100%;
     min-width: 170px;
     height: 7rem;
     color: white;
     font-weight: bold;
     box-sizing: border-box;
+    cursor: pointer;
+    border-color: var(--primary-color);
+    box-shadow: 0 5px 15px var(--box-shadow-color);
+    transition: box-shadow 0.3s ease, background-color 0.3s ease;
+}
+
+.SectionButton:hover {
+    box-shadow: 0 5px 15px var(--box-shadow-hover-color);
 }
 
 .SectionButton span:first-child {

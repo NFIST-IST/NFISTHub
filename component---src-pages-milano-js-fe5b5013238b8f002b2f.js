@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknfist_hub=self.webpackChunknfist_hub||[]).push([[397],{4281:function(e,n,t){t.r(n),t.d(n,{default:function(){return u}});var i=t(3696),l=t(2925);function u(){return i.createElement(i.Fragment,null,i.createElement(l.G$,{title:"Milano",useTitleTemplate:!0,noIndex:!0}),i.createElement(l.YW,null,i.createElement(l.fd,{sectionId:"milano",heading:"Università degli Studi di Milano"})))}}}]);
+//# sourceMappingURL=component---src-pages-milano-js-fe5b5013238b8f002b2f.js.map

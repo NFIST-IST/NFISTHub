@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknfist_hub=self.webpackChunknfist_hub||[]).push([[948],{8892:function(e,n,t){t.r(n),t.d(n,{default:function(){return a}});var l=t(3696),u=t(2925);function a(){return l.createElement(l.Fragment,null,l.createElement(u.G$,{title:"EPFL",useTitleTemplate:!0,noIndex:!0}),l.createElement(u.YW,null,l.createElement(u.fd,{sectionId:"epfl",heading:"École Polytechnique Fédérale de Lausanne (EPFL)"})))}}}]);
+//# sourceMappingURL=component---src-pages-epfl-js-534cf1750745108db4c2.js.map

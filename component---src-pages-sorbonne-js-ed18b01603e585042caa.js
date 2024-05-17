@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknfist_hub=self.webpackChunknfist_hub||[]).push([[737],{1821:function(e,n,t){t.r(n),t.d(n,{default:function(){return u}});var r=t(3696),i=t(2925);function u(){return r.createElement(r.Fragment,null,r.createElement(i.G$,{title:"Sorbonne",useTitleTemplate:!0,noIndex:!0}),r.createElement(i.YW,null,r.createElement(i.fd,{sectionId:"sorbonne",heading:"Sorbonne Université (Université Pierre et Marie Curie)"})))}}}]);
+//# sourceMappingURL=component---src-pages-sorbonne-js-ed18b01603e585042caa.js.map

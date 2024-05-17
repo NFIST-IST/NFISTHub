@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknfist_hub=self.webpackChunknfist_hub||[]).push([[496],{5520:function(e,n,t){t.r(n),t.d(n,{default:function(){return c}});var u=t(3696),l=t(2925);function c(){return u.createElement(u.Fragment,null,u.createElement(l.G$,{title:"NTNU",useTitleTemplate:!0,noIndex:!0}),u.createElement(l.YW,null,u.createElement(l.fd,{sectionId:"ntnu",heading:"Norwegian University of Science and Technology (NTNU)"})))}}}]);
+//# sourceMappingURL=component---src-pages-ntnu-js-4d2580b7009368e907b5.js.map

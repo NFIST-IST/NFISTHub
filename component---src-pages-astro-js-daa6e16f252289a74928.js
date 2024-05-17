@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknfist_hub=self.webpackChunknfist_hub||[]).push([[650],{3396:function(e,t,n){n.r(t),n.d(t,{default:function(){return l}});var r=n(3696),u=n(2925);function l(){return r.createElement(r.Fragment,null,r.createElement(u.G$,{title:"Astro",useTitleTemplate:!0,noIndex:!0}),r.createElement(u.YW,null,r.createElement(u.fd,{sectionId:"astro",heading:"Astro"})))}}}]);
+//# sourceMappingURL=component---src-pages-astro-js-daa6e16f252289a74928.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknfist_hub=self.webpackChunknfist_hub||[]).push([[718],{5768:function(e,t,n){n.r(t),n.d(t,{default:function(){return u}});var l=n(3696),a=n(2925);function u(){return l.createElement(l.Fragment,null,l.createElement(a.G$,{title:"Aalto",useTitleTemplate:!0,noIndex:!0}),l.createElement(a.YW,null,l.createElement(a.fd,{sectionId:"aalto",heading:"Aalto University"})))}}}]);
+//# sourceMappingURL=component---src-pages-aalto-js-7573e7870ec12aa8116e.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknfist_hub=self.webpackChunknfist_hub||[]).push([[219],{7321:function(e,t,n){n.r(t),n.d(t,{default:function(){return l}});var u=n(3696),s=n(2925);function l(){return u.createElement(u.Fragment,null,u.createElement(s.G$,{title:"Resumos",useTitleTemplate:!0,noIndex:!0}),u.createElement(s.YW,null,u.createElement(s.c$,{sectionId:"resumos",heading:"Resumos"})))}}}]);
+//# sourceMappingURL=component---src-pages-resumos-js-a4d2e0b470601769cd85.js.map

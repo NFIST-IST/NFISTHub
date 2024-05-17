@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknfist_hub=self.webpackChunknfist_hub||[]).push([[584],{8314:function(e,t,n){n.r(t),n.d(t,{default:function(){return c}});var r=n(3696),u=n(2925);function c(){return r.createElement(r.Fragment,null,r.createElement(u.G$,{title:"UTrecht",useTitleTemplate:!0,noIndex:!0}),r.createElement(u.YW,null,r.createElement(u.fd,{sectionId:"utrecht",heading:"Universiteit Utrecht"})))}}}]);
+//# sourceMappingURL=component---src-pages-utrecht-js-0af8fe3182ca7c975b5d.js.map

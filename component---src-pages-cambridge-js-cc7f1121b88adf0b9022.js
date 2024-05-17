@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknfist_hub=self.webpackChunknfist_hub||[]).push([[791],{3233:function(e,t,n){n.r(t),n.d(t,{default:function(){return u}});var r=n(3696),i=n(2925);function u(){return r.createElement(r.Fragment,null,r.createElement(i.G$,{title:"Cambridge",useTitleTemplate:!0,noIndex:!0}),r.createElement(i.YW,null,r.createElement(i.fd,{sectionId:"cambridge",heading:"University of Cambridge"})))}}}]);
+//# sourceMappingURL=component---src-pages-cambridge-js-cc7f1121b88adf0b9022.js.map

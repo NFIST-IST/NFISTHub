@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknfist_hub=self.webpackChunknfist_hub||[]).push([[972],{8038:function(e,t,n){n.r(t),n.d(t,{default:function(){return a}});var l=n(3696),u=n(2925);function a(){return l.createElement(l.Fragment,null,l.createElement(u.G$,{title:"KTH",useTitleTemplate:!0,noIndex:!0}),l.createElement(u.YW,null,l.createElement(u.fd,{sectionId:"kth",heading:"KTH Royal Institute of Technology"})))}}}]);
+//# sourceMappingURL=component---src-pages-kth-js-4507f602901b0a9f77f6.js.map

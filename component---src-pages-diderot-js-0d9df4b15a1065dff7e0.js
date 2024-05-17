@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknfist_hub=self.webpackChunknfist_hub||[]).push([[260],{6170:function(e,t,n){n.r(t),n.d(t,{default:function(){return u}});var r=n(3696),i=n(2925);function u(){return r.createElement(r.Fragment,null,r.createElement(i.G$,{title:"Diderot",useTitleTemplate:!0,noIndex:!0}),r.createElement(i.YW,null,r.createElement(i.fd,{sectionId:"diderot",heading:"Paris Diderot University"})))}}}]);
+//# sourceMappingURL=component---src-pages-diderot-js-0d9df4b15a1065dff7e0.js.map

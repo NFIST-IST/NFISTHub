@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknfist_hub=self.webpackChunknfist_hub||[]).push([[378],{4052:function(e,t,n){n.r(t),n.d(t,{default:function(){return r}});var u=n(3696),l=n(2925);function r(){return u.createElement(u.Fragment,null,u.createElement(l.G$,{title:"DTU",useTitleTemplate:!0,noIndex:!0}),u.createElement(l.YW,null,u.createElement(l.fd,{sectionId:"dtu",heading:"Danmarks Tekniske Universitet (DTU)"})))}}}]);
+//# sourceMappingURL=component---src-pages-dtu-js-90f5c1de568de532bdaf.js.map

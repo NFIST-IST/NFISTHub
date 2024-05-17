@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknfist_hub=self.webpackChunknfist_hub||[]).push([[263],{2561:function(e,n,t){t.r(n),t.d(n,{default:function(){return l}});var i=t(3696),r=t(2925);function l(){return i.createElement(i.Fragment,null,i.createElement(r.G$,{title:"UniRio",useTitleTemplate:!0,noIndex:!0}),i.createElement(r.YW,null,i.createElement(r.fd,{sectionId:"rio",heading:"Universidade Federal do Rio de Janeiro"})))}}}]);
+//# sourceMappingURL=component---src-pages-rio-js-564136c1553fc44c3be5.js.map

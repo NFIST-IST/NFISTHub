@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknfist_hub=self.webpackChunknfist_hub||[]).push([[209],{99:function(e,t,n){n.r(t),n.d(t,{default:function(){return i}});var u=n(3696),l=n(2925);function i(){return u.createElement(u.Fragment,null,u.createElement(l.G$,{title:"KUL",useTitleTemplate:!0,noIndex:!0}),u.createElement(l.YW,null,u.createElement(l.fd,{sectionId:"ku-leuven",heading:"Katholieke Universiteit Leuven"})))}}}]);
+//# sourceMappingURL=component---src-pages-ku-leuven-js-325ad3e078213758575f.js.map

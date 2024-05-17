@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknfist_hub=self.webpackChunknfist_hub||[]).push([[387],{7013:function(e,n,t){t.r(n),t.d(n,{default:function(){return l}});var u=t(3696),c=t(2925);function l(){return u.createElement(u.Fragment,null,u.createElement(c.G$,{title:"TUM",useTitleTemplate:!0,noIndex:!0}),u.createElement(c.YW,null,u.createElement(c.fd,{sectionId:"tum",heading:"Technische Universität von Munchen (TUM)"})))}}}]);
+//# sourceMappingURL=component---src-pages-tum-js-2f5ad24e3125e7dad71e.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknfist_hub=self.webpackChunknfist_hub||[]).push([[588],{9352:function(e,t,n){n.r(t),n.d(t,{default:function(){return i}});var a=n(3696),u=n(2925);function i(){return a.createElement(a.Fragment,null,a.createElement(u.G$,{title:"Padova",useTitleTemplate:!0,noIndex:!0}),a.createElement(u.YW,null,a.createElement(u.fd,{sectionId:"padova",heading:"Università degli Studi di Padova"})))}}}]);
+//# sourceMappingURL=component---src-pages-padova-js-4cfa27b2456750c2b3ab.js.map

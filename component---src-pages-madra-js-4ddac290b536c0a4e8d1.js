@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknfist_hub=self.webpackChunknfist_hub||[]).push([[394],{9936:function(e,n,t){t.r(n),t.d(n,{default:function(){return l}});var a=t(3696),u=t(2925);function l(){return a.createElement(a.Fragment,null,a.createElement(u.G$,{title:"ITT Madra",useTitleTemplate:!0,noIndex:!0}),a.createElement(u.YW,null,a.createElement(u.fd,{sectionId:"madra",heading:"Indian Institute of Technology Madras"})))}}}]);
+//# sourceMappingURL=component---src-pages-madra-js-4ddac290b536c0a4e8d1.js.map

@@ -9,7 +9,7 @@ exports.onRenderBody = ({ setPostBodyComponents }) => {
             src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
             data-id="pcurvo"
             data-description="Support me on Buy me a coffee!"
-            data-message="Help maintain my caffeine addiction"
+            data-message="Support this project!"
             data-color="#5F7FFF"
             data-position="Right"
             data-x_margin="18"

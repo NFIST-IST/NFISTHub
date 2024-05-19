@@ -89,7 +89,7 @@ export function ArticlesSection(props: ArticlesSectionProps): React.ReactElement
                         ? articles.map((article, key) => {
                               return <ArticleCard key={key} data={article} />;
                           })
-                        : [...Array(6)].map((_, key) => {
+                        : [...Array(3)].map((_, key) => {
                               return <ArticleCardSkeleton key={key} />;
                           })}
                 </Slider>

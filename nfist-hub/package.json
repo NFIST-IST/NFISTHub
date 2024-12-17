@@ -13,7 +13,7 @@
         "lint": "echo \"Nothing to do here\""
     },
     "dependencies": {
-        "gatsby": "^5.0.1",
+        "gatsby": "^5.9.1",
         "dev-nfist-hub": "*",
         "react": "^18.2.0",
         "react-dom": "^18.2.0"
